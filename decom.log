@@ -1,0 +1,925 @@
+[*] Number of training data_ir/vi: 240
+[0/240] Train Image Loaded!
+[1/240] Train Image Loaded!
+[2/240] Train Image Loaded!
+[3/240] Train Image Loaded!
+[4/240] Train Image Loaded!
+[5/240] Train Image Loaded!
+[6/240] Train Image Loaded!
+[7/240] Train Image Loaded!
+[8/240] Train Image Loaded!
+[9/240] Train Image Loaded!
+[10/240] Train Image Loaded!
+[11/240] Train Image Loaded!
+[12/240] Train Image Loaded!
+[13/240] Train Image Loaded!
+[14/240] Train Image Loaded!
+[15/240] Train Image Loaded!
+[16/240] Train Image Loaded!
+[17/240] Train Image Loaded!
+[18/240] Train Image Loaded!
+[19/240] Train Image Loaded!
+[20/240] Train Image Loaded!
+[21/240] Train Image Loaded!
+[22/240] Train Image Loaded!
+[23/240] Train Image Loaded!
+[24/240] Train Image Loaded!
+[25/240] Train Image Loaded!
+[26/240] Train Image Loaded!
+[27/240] Train Image Loaded!
+[28/240] Train Image Loaded!
+[29/240] Train Image Loaded!
+[30/240] Train Image Loaded!
+[31/240] Train Image Loaded!
+[32/240] Train Image Loaded!
+[33/240] Train Image Loaded!
+[34/240] Train Image Loaded!
+[35/240] Train Image Loaded!
+[36/240] Train Image Loaded!
+[37/240] Train Image Loaded!
+[38/240] Train Image Loaded!
+[39/240] Train Image Loaded!
+[40/240] Train Image Loaded!
+[41/240] Train Image Loaded!
+[42/240] Train Image Loaded!
+[43/240] Train Image Loaded!
+[44/240] Train Image Loaded!
+[45/240] Train Image Loaded!
+[46/240] Train Image Loaded!
+[47/240] Train Image Loaded!
+[48/240] Train Image Loaded!
+[49/240] Train Image Loaded!
+[50/240] Train Image Loaded!
+[51/240] Train Image Loaded!
+[52/240] Train Image Loaded!
+[53/240] Train Image Loaded!
+[54/240] Train Image Loaded!
+[55/240] Train Image Loaded!
+[56/240] Train Image Loaded!
+[57/240] Train Image Loaded!
+[58/240] Train Image Loaded!
+[59/240] Train Image Loaded!
+[60/240] Train Image Loaded!
+[61/240] Train Image Loaded!
+[62/240] Train Image Loaded!
+[63/240] Train Image Loaded!
+[64/240] Train Image Loaded!
+[65/240] Train Image Loaded!
+[66/240] Train Image Loaded!
+[67/240] Train Image Loaded!
+[68/240] Train Image Loaded!
+[69/240] Train Image Loaded!
+[70/240] Train Image Loaded!
+[71/240] Train Image Loaded!
+[72/240] Train Image Loaded!
+[73/240] Train Image Loaded!
+[74/240] Train Image Loaded!
+[75/240] Train Image Loaded!
+[76/240] Train Image Loaded!
+[77/240] Train Image Loaded!
+[78/240] Train Image Loaded!
+[79/240] Train Image Loaded!
+[80/240] Train Image Loaded!
+[81/240] Train Image Loaded!
+[82/240] Train Image Loaded!
+[83/240] Train Image Loaded!
+[84/240] Train Image Loaded!
+[85/240] Train Image Loaded!
+[86/240] Train Image Loaded!
+[87/240] Train Image Loaded!
+[88/240] Train Image Loaded!
+[89/240] Train Image Loaded!
+[90/240] Train Image Loaded!
+[91/240] Train Image Loaded!
+[92/240] Train Image Loaded!
+[93/240] Train Image Loaded!
+[94/240] Train Image Loaded!
+[95/240] Train Image Loaded!
+[96/240] Train Image Loaded!
+[97/240] Train Image Loaded!
+[98/240] Train Image Loaded!
+[99/240] Train Image Loaded!
+[100/240] Train Image Loaded!
+[101/240] Train Image Loaded!
+[102/240] Train Image Loaded!
+[103/240] Train Image Loaded!
+[104/240] Train Image Loaded!
+[105/240] Train Image Loaded!
+[106/240] Train Image Loaded!
+[107/240] Train Image Loaded!
+[108/240] Train Image Loaded!
+[109/240] Train Image Loaded!
+[110/240] Train Image Loaded!
+[111/240] Train Image Loaded!
+[112/240] Train Image Loaded!
+[113/240] Train Image Loaded!
+[114/240] Train Image Loaded!
+[115/240] Train Image Loaded!
+[116/240] Train Image Loaded!
+[117/240] Train Image Loaded!
+[118/240] Train Image Loaded!
+[119/240] Train Image Loaded!
+[120/240] Train Image Loaded!
+[121/240] Train Image Loaded!
+[122/240] Train Image Loaded!
+[123/240] Train Image Loaded!
+[124/240] Train Image Loaded!
+[125/240] Train Image Loaded!
+[126/240] Train Image Loaded!
+[127/240] Train Image Loaded!
+[128/240] Train Image Loaded!
+[129/240] Train Image Loaded!
+[130/240] Train Image Loaded!
+[131/240] Train Image Loaded!
+[132/240] Train Image Loaded!
+[133/240] Train Image Loaded!
+[134/240] Train Image Loaded!
+[135/240] Train Image Loaded!
+[136/240] Train Image Loaded!
+[137/240] Train Image Loaded!
+[138/240] Train Image Loaded!
+[139/240] Train Image Loaded!
+[140/240] Train Image Loaded!
+[141/240] Train Image Loaded!
+[142/240] Train Image Loaded!
+[143/240] Train Image Loaded!
+[144/240] Train Image Loaded!
+[145/240] Train Image Loaded!
+[146/240] Train Image Loaded!
+[147/240] Train Image Loaded!
+[148/240] Train Image Loaded!
+[149/240] Train Image Loaded!
+[150/240] Train Image Loaded!
+[151/240] Train Image Loaded!
+[152/240] Train Image Loaded!
+[153/240] Train Image Loaded!
+[154/240] Train Image Loaded!
+[155/240] Train Image Loaded!
+[156/240] Train Image Loaded!
+[157/240] Train Image Loaded!
+[158/240] Train Image Loaded!
+[159/240] Train Image Loaded!
+[160/240] Train Image Loaded!
+[161/240] Train Image Loaded!
+[162/240] Train Image Loaded!
+[163/240] Train Image Loaded!
+[164/240] Train Image Loaded!
+[165/240] Train Image Loaded!
+[166/240] Train Image Loaded!
+[167/240] Train Image Loaded!
+[168/240] Train Image Loaded!
+[169/240] Train Image Loaded!
+[170/240] Train Image Loaded!
+[171/240] Train Image Loaded!
+[172/240] Train Image Loaded!
+[173/240] Train Image Loaded!
+[174/240] Train Image Loaded!
+[175/240] Train Image Loaded!
+[176/240] Train Image Loaded!
+[177/240] Train Image Loaded!
+[178/240] Train Image Loaded!
+[179/240] Train Image Loaded!
+[180/240] Train Image Loaded!
+[181/240] Train Image Loaded!
+[182/240] Train Image Loaded!
+[183/240] Train Image Loaded!
+[184/240] Train Image Loaded!
+[185/240] Train Image Loaded!
+[186/240] Train Image Loaded!
+[187/240] Train Image Loaded!
+[188/240] Train Image Loaded!
+[189/240] Train Image Loaded!
+[190/240] Train Image Loaded!
+[191/240] Train Image Loaded!
+[192/240] Train Image Loaded!
+[193/240] Train Image Loaded!
+[194/240] Train Image Loaded!
+[195/240] Train Image Loaded!
+[196/240] Train Image Loaded!
+[197/240] Train Image Loaded!
+[198/240] Train Image Loaded!
+[199/240] Train Image Loaded!
+[200/240] Train Image Loaded!
+[201/240] Train Image Loaded!
+[202/240] Train Image Loaded!
+[203/240] Train Image Loaded!
+[204/240] Train Image Loaded!
+[205/240] Train Image Loaded!
+[206/240] Train Image Loaded!
+[207/240] Train Image Loaded!
+[208/240] Train Image Loaded!
+[209/240] Train Image Loaded!
+[210/240] Train Image Loaded!
+[211/240] Train Image Loaded!
+[212/240] Train Image Loaded!
+[213/240] Train Image Loaded!
+[214/240] Train Image Loaded!
+[215/240] Train Image Loaded!
+[216/240] Train Image Loaded!
+[217/240] Train Image Loaded!
+[218/240] Train Image Loaded!
+[219/240] Train Image Loaded!
+[220/240] Train Image Loaded!
+[221/240] Train Image Loaded!
+[222/240] Train Image Loaded!
+[223/240] Train Image Loaded!
+[224/240] Train Image Loaded!
+[225/240] Train Image Loaded!
+[226/240] Train Image Loaded!
+[227/240] Train Image Loaded!
+[228/240] Train Image Loaded!
+[229/240] Train Image Loaded!
+[230/240] Train Image Loaded!
+[231/240] Train Image Loaded!
+[232/240] Train Image Loaded!
+[233/240] Train Image Loaded!
+[234/240] Train Image Loaded!
+[235/240] Train Image Loaded!
+[236/240] Train Image Loaded!
+[237/240] Train Image Loaded!
+[238/240] Train Image Loaded!
+[239/240] Train Image Loaded!
+[0/50] Test Image Loaded!
+[1/50] Test Image Loaded!
+[2/50] Test Image Loaded!
+[3/50] Test Image Loaded!
+[4/50] Test Image Loaded!
+[5/50] Test Image Loaded!
+[6/50] Test Image Loaded!
+[7/50] Test Image Loaded!
+[8/50] Test Image Loaded!
+[9/50] Test Image Loaded!
+[10/50] Test Image Loaded!
+[11/50] Test Image Loaded!
+[12/50] Test Image Loaded!
+[13/50] Test Image Loaded!
+[14/50] Test Image Loaded!
+[15/50] Test Image Loaded!
+[16/50] Test Image Loaded!
+[17/50] Test Image Loaded!
+[18/50] Test Image Loaded!
+[19/50] Test Image Loaded!
+[20/50] Test Image Loaded!
+[21/50] Test Image Loaded!
+[22/50] Test Image Loaded!
+[23/50] Test Image Loaded!
+[24/50] Test Image Loaded!
+[25/50] Test Image Loaded!
+[26/50] Test Image Loaded!
+[27/50] Test Image Loaded!
+[28/50] Test Image Loaded!
+[29/50] Test Image Loaded!
+[30/50] Test Image Loaded!
+[31/50] Test Image Loaded!
+[32/50] Test Image Loaded!
+[33/50] Test Image Loaded!
+[34/50] Test Image Loaded!
+[35/50] Test Image Loaded!
+[36/50] Test Image Loaded!
+[37/50] Test Image Loaded!
+[38/50] Test Image Loaded!
+/home/woody/Torch DIV Fusion/losses.py:413: UserWarning: Using padding='same' with even kernel lengths and odd dilation may require a zero-padded copy of the input be created (Triggered internally at  /opt/conda/conda-bld/pytorch_1646755888534/work/aten/src/ATen/native/Convolution.cpp:744.)
+  gradient_orig = torch.abs(F.conv2d(input=input_tensor, weight=kernel, stride=1, padding='same'))
+[39/50] Test Image Loaded!
+[40/50] Test Image Loaded!
+[41/50] Test Image Loaded!
+[42/50] Test Image Loaded!
+[43/50] Test Image Loaded!
+[44/50] Test Image Loaded!
+[45/50] Test Image Loaded!
+[46/50] Test Image Loaded!
+[47/50] Test Image Loaded!
+[48/50] Test Image Loaded!
+[49/50] Test Image Loaded!
+[*] Start training...
+Epoch [4/2000], Step [100], Total Loss: 332.9005, Recon VI Loss: 0.0144, Recon IR Loss: 0.1007, Mutual Loss: 0.0081, Perceptual Loss: 2.7713, Mutual I Input Loss: 0.8859
+Epoch [7/2000], Step [200], Total Loss: 256.9319, Recon VI Loss: 0.0139, Recon IR Loss: 0.0711, Mutual Loss: 0.0052, Perceptual Loss: 2.4461, Mutual I Input Loss: 0.4384
+Epoch [10/2000], Step [300], Total Loss: 177.2799, Recon VI Loss: 0.0094, Recon IR Loss: 0.0382, Mutual Loss: 0.0048, Perceptual Loss: 2.1948, Mutual I Input Loss: 0.5227
+Epoch [14/2000], Step [400], Total Loss: 305.5842, Recon VI Loss: 0.0097, Recon IR Loss: 0.1049, Mutual Loss: 0.0037, Perceptual Loss: 2.0737, Mutual I Input Loss: 0.4449
+Epoch [17/2000], Step [500], Total Loss: 291.3795, Recon VI Loss: 0.0068, Recon IR Loss: 0.1049, Mutual Loss: 0.0054, Perceptual Loss: 1.7844, Mutual I Input Loss: 0.4860
+Epoch [20/2000], Step [600], Total Loss: 177.7736, Recon VI Loss: 0.0084, Recon IR Loss: 0.0516, Mutual Loss: 0.0054, Perceptual Loss: 1.5639, Mutual I Input Loss: 0.4979
+Epoch [24/2000], Step [700], Total Loss: 322.3813, Recon VI Loss: 0.0111, Recon IR Loss: 0.1202, Mutual Loss: 0.0057, Perceptual Loss: 1.6652, Mutual I Input Loss: 0.6013
+Epoch [27/2000], Step [800], Total Loss: 236.6930, Recon VI Loss: 0.0077, Recon IR Loss: 0.0805, Mutual Loss: 0.0055, Perceptual Loss: 1.6088, Mutual I Input Loss: 0.5114
+Epoch [30/2000], Step [900], Total Loss: 201.0610, Recon VI Loss: 0.0106, Recon IR Loss: 0.0600, Mutual Loss: 0.0050, Perceptual Loss: 1.6699, Mutual I Input Loss: 0.5190
+Epoch [34/2000], Step [1000], Total Loss: 246.8475, Recon VI Loss: 0.0076, Recon IR Loss: 0.0803, Mutual Loss: 0.0051, Perceptual Loss: 1.8768, Mutual I Input Loss: 0.4998
+Epoch [37/2000], Step [1100], Total Loss: 180.9075, Recon VI Loss: 0.0119, Recon IR Loss: 0.0483, Mutual Loss: 0.0053, Perceptual Loss: 1.7101, Mutual I Input Loss: 0.5490
+Epoch [40/2000], Step [1200], Total Loss: 149.2467, Recon VI Loss: 0.0120, Recon IR Loss: 0.0328, Mutual Loss: 0.0059, Perceptual Loss: 1.6919, Mutual I Input Loss: 0.5535
+Epoch [44/2000], Step [1300], Total Loss: 247.6088, Recon VI Loss: 0.0095, Recon IR Loss: 0.0896, Mutual Loss: 0.0058, Perceptual Loss: 1.3609, Mutual I Input Loss: 0.6244
+Epoch [47/2000], Step [1400], Total Loss: 193.6885, Recon VI Loss: 0.0079, Recon IR Loss: 0.0558, Mutual Loss: 0.0038, Perceptual Loss: 1.7909, Mutual I Input Loss: 0.3563
+Epoch [50/2000], Step [1500], Total Loss: 174.6229, Recon VI Loss: 0.0047, Recon IR Loss: 0.0558, Mutual Loss: 0.0046, Perceptual Loss: 1.3874, Mutual I Input Loss: 0.4106
+Epoch [54/2000], Step [1600], Total Loss: 248.2328, Recon VI Loss: 0.0051, Recon IR Loss: 0.0850, Mutual Loss: 0.0035, Perceptual Loss: 1.7679, Mutual I Input Loss: 0.3224
+Epoch [57/2000], Step [1700], Total Loss: 190.4867, Recon VI Loss: 0.0031, Recon IR Loss: 0.0597, Mutual Loss: 0.0057, Perceptual Loss: 1.6205, Mutual I Input Loss: 0.4348
+Epoch [60/2000], Step [1800], Total Loss: 115.9900, Recon VI Loss: 0.0039, Recon IR Loss: 0.0274, Mutual Loss: 0.0044, Perceptual Loss: 1.3794, Mutual I Input Loss: 0.3147
+Epoch [64/2000], Step [1900], Total Loss: 241.3231, Recon VI Loss: 0.0064, Recon IR Loss: 0.0812, Mutual Loss: 0.0050, Perceptual Loss: 1.7357, Mutual I Input Loss: 0.4255
+Epoch [67/2000], Step [2000], Total Loss: 183.6154, Recon VI Loss: 0.0015, Recon IR Loss: 0.0579, Mutual Loss: 0.0049, Perceptual Loss: 1.5917, Mutual I Input Loss: 0.3589
+Epoch [70/2000], Step [2100], Total Loss: 124.1299, Recon VI Loss: 0.0088, Recon IR Loss: 0.0294, Mutual Loss: 0.0062, Perceptual Loss: 1.3020, Mutual I Input Loss: 0.6227
+Epoch [74/2000], Step [2200], Total Loss: 210.8441, Recon VI Loss: 0.0046, Recon IR Loss: 0.0727, Mutual Loss: 0.0031, Perceptual Loss: 1.4670, Mutual I Input Loss: 0.3072
+Epoch [77/2000], Step [2300], Total Loss: 215.0644, Recon VI Loss: 0.0036, Recon IR Loss: 0.0799, Mutual Loss: 0.0058, Perceptual Loss: 1.2225, Mutual I Input Loss: 0.3981
+Epoch [80/2000], Step [2400], Total Loss: 111.6028, Recon VI Loss: 0.0037, Recon IR Loss: 0.0322, Mutual Loss: 0.0059, Perceptual Loss: 1.0014, Mutual I Input Loss: 0.4869
+Epoch [84/2000], Step [2500], Total Loss: 199.2908, Recon VI Loss: 0.0031, Recon IR Loss: 0.0678, Mutual Loss: 0.0037, Perceptual Loss: 1.4570, Mutual I Input Loss: 0.3169
+Epoch [87/2000], Step [2600], Total Loss: 177.6972, Recon VI Loss: 0.0055, Recon IR Loss: 0.0580, Mutual Loss: 0.0052, Perceptual Loss: 1.3361, Mutual I Input Loss: 0.3930
+Epoch [90/2000], Step [2700], Total Loss: 125.9284, Recon VI Loss: 0.0045, Recon IR Loss: 0.0345, Mutual Loss: 0.0040, Perceptual Loss: 1.2466, Mutual I Input Loss: 0.3440
+Epoch [94/2000], Step [2800], Total Loss: 178.5308, Recon VI Loss: 0.0026, Recon IR Loss: 0.0593, Mutual Loss: 0.0034, Perceptual Loss: 1.3798, Mutual I Input Loss: 0.2951
+Epoch [97/2000], Step [2900], Total Loss: 161.3794, Recon VI Loss: 0.0024, Recon IR Loss: 0.0567, Mutual Loss: 0.0045, Perceptual Loss: 1.0750, Mutual I Input Loss: 0.3526
+Epoch [100/2000], Step [3000], Total Loss: 97.1621, Recon VI Loss: 0.0022, Recon IR Loss: 0.0241, Mutual Loss: 0.0035, Perceptual Loss: 1.1230, Mutual I Input Loss: 0.2696
+Saving epoch 100 models...
+Epoch [104/2000], Step [3100], Total Loss: 178.7348, Recon VI Loss: 0.0025, Recon IR Loss: 0.0579, Mutual Loss: 0.0035, Perceptual Loss: 1.4510, Mutual I Input Loss: 0.3332
+Epoch [107/2000], Step [3200], Total Loss: 142.9199, Recon VI Loss: 0.0037, Recon IR Loss: 0.0430, Mutual Loss: 0.0064, Perceptual Loss: 1.2367, Mutual I Input Loss: 0.5407
+Epoch [110/2000], Step [3300], Total Loss: 123.4061, Recon VI Loss: 0.0041, Recon IR Loss: 0.0365, Mutual Loss: 0.0039, Perceptual Loss: 1.0922, Mutual I Input Loss: 0.3589
+Epoch [114/2000], Step [3400], Total Loss: 182.6615, Recon VI Loss: 0.0041, Recon IR Loss: 0.0629, Mutual Loss: 0.0048, Perceptual Loss: 1.2373, Mutual I Input Loss: 0.4674
+Epoch [117/2000], Step [3500], Total Loss: 110.1609, Recon VI Loss: 0.0027, Recon IR Loss: 0.0265, Mutual Loss: 0.0047, Perceptual Loss: 1.2948, Mutual I Input Loss: 0.3759
+Epoch [120/2000], Step [3600], Total Loss: 98.5304, Recon VI Loss: 0.0032, Recon IR Loss: 0.0246, Mutual Loss: 0.0044, Perceptual Loss: 1.0860, Mutual I Input Loss: 0.3670
+Epoch [124/2000], Step [3700], Total Loss: 186.5111, Recon VI Loss: 0.0029, Recon IR Loss: 0.0586, Mutual Loss: 0.0034, Perceptual Loss: 1.6103, Mutual I Input Loss: 0.2776
+Epoch [127/2000], Step [3800], Total Loss: 134.4481, Recon VI Loss: 0.0021, Recon IR Loss: 0.0422, Mutual Loss: 0.0044, Perceptual Loss: 1.1396, Mutual I Input Loss: 0.3486
+Epoch [130/2000], Step [3900], Total Loss: 94.0873, Recon VI Loss: 0.0032, Recon IR Loss: 0.0221, Mutual Loss: 0.0031, Perceptual Loss: 1.1241, Mutual I Input Loss: 0.2377
+Epoch [134/2000], Step [4000], Total Loss: 136.0990, Recon VI Loss: 0.0030, Recon IR Loss: 0.0401, Mutual Loss: 0.0028, Perceptual Loss: 1.2764, Mutual I Input Loss: 0.2648
+Epoch [137/2000], Step [4100], Total Loss: 143.6306, Recon VI Loss: 0.0023, Recon IR Loss: 0.0461, Mutual Loss: 0.0047, Perceptual Loss: 1.1690, Mutual I Input Loss: 0.3429
+Epoch [140/2000], Step [4200], Total Loss: 115.9312, Recon VI Loss: 0.0022, Recon IR Loss: 0.0359, Mutual Loss: 0.0035, Perceptual Loss: 0.9994, Mutual I Input Loss: 0.2824
+Epoch [144/2000], Step [4300], Total Loss: 133.0169, Recon VI Loss: 0.0031, Recon IR Loss: 0.0397, Mutual Loss: 0.0033, Perceptual Loss: 1.2071, Mutual I Input Loss: 0.3176
+Epoch [147/2000], Step [4400], Total Loss: 118.7805, Recon VI Loss: 0.0015, Recon IR Loss: 0.0374, Mutual Loss: 0.0046, Perceptual Loss: 0.9961, Mutual I Input Loss: 0.3662
+Epoch [150/2000], Step [4500], Total Loss: 136.6196, Recon VI Loss: 0.0020, Recon IR Loss: 0.0468, Mutual Loss: 0.0044, Perceptual Loss: 0.9632, Mutual I Input Loss: 0.3574
+Epoch [154/2000], Step [4600], Total Loss: 112.7493, Recon VI Loss: 0.0023, Recon IR Loss: 0.0256, Mutual Loss: 0.0034, Perceptual Loss: 1.4238, Mutual I Input Loss: 0.3329
+Epoch [157/2000], Step [4700], Total Loss: 97.7593, Recon VI Loss: 0.0023, Recon IR Loss: 0.0259, Mutual Loss: 0.0052, Perceptual Loss: 1.0230, Mutual I Input Loss: 0.3918
+Epoch [160/2000], Step [4800], Total Loss: 96.9327, Recon VI Loss: 0.0013, Recon IR Loss: 0.0268, Mutual Loss: 0.0035, Perceptual Loss: 1.0011, Mutual I Input Loss: 0.2784
+Epoch [164/2000], Step [4900], Total Loss: 151.3651, Recon VI Loss: 0.0045, Recon IR Loss: 0.0480, Mutual Loss: 0.0051, Perceptual Loss: 1.1731, Mutual I Input Loss: 0.5606
+Epoch [167/2000], Step [5000], Total Loss: 125.1422, Recon VI Loss: 0.0018, Recon IR Loss: 0.0383, Mutual Loss: 0.0040, Perceptual Loss: 1.1220, Mutual I Input Loss: 0.2594
+Epoch [170/2000], Step [5100], Total Loss: 80.5498, Recon VI Loss: 0.0025, Recon IR Loss: 0.0172, Mutual Loss: 0.0046, Perceptual Loss: 1.0150, Mutual I Input Loss: 0.4181
+Epoch [174/2000], Step [5200], Total Loss: 149.6169, Recon VI Loss: 0.0024, Recon IR Loss: 0.0462, Mutual Loss: 0.0065, Perceptual Loss: 1.2508, Mutual I Input Loss: 0.6674
+Epoch [177/2000], Step [5300], Total Loss: 89.8101, Recon VI Loss: 0.0016, Recon IR Loss: 0.0231, Mutual Loss: 0.0039, Perceptual Loss: 0.9959, Mutual I Input Loss: 0.3056
+Epoch [180/2000], Step [5400], Total Loss: 87.9025, Recon VI Loss: 0.0020, Recon IR Loss: 0.0243, Mutual Loss: 0.0039, Perceptual Loss: 0.8787, Mutual I Input Loss: 0.3011
+Epoch [184/2000], Step [5500], Total Loss: 109.4256, Recon VI Loss: 0.0022, Recon IR Loss: 0.0250, Mutual Loss: 0.0027, Perceptual Loss: 1.3907, Mutual I Input Loss: 0.2217
+Epoch [187/2000], Step [5600], Total Loss: 99.2905, Recon VI Loss: 0.0012, Recon IR Loss: 0.0261, Mutual Loss: 0.0037, Perceptual Loss: 1.0992, Mutual I Input Loss: 0.2641
+Epoch [190/2000], Step [5700], Total Loss: 84.1731, Recon VI Loss: 0.0009, Recon IR Loss: 0.0204, Mutual Loss: 0.0039, Perceptual Loss: 1.0157, Mutual I Input Loss: 0.2680
+Epoch [194/2000], Step [5800], Total Loss: 116.8569, Recon VI Loss: 0.0022, Recon IR Loss: 0.0305, Mutual Loss: 0.0032, Perceptual Loss: 1.2909, Mutual I Input Loss: 0.2706
+Epoch [197/2000], Step [5900], Total Loss: 88.9078, Recon VI Loss: 0.0016, Recon IR Loss: 0.0176, Mutual Loss: 0.0036, Perceptual Loss: 1.2502, Mutual I Input Loss: 0.2816
+Epoch [200/2000], Step [6000], Total Loss: 75.2009, Recon VI Loss: 0.0023, Recon IR Loss: 0.0185, Mutual Loss: 0.0036, Perceptual Loss: 0.8417, Mutual I Input Loss: 0.3114
+Evaluating epoch 200 results...
+Saving epoch 200 models...
+Epoch [204/2000], Step [6100], Total Loss: 93.6976, Recon VI Loss: 0.0018, Recon IR Loss: 0.0195, Mutual Loss: 0.0032, Perceptual Loss: 1.2732, Mutual I Input Loss: 0.2707
+Epoch [207/2000], Step [6200], Total Loss: 69.8091, Recon VI Loss: 0.0018, Recon IR Loss: 0.0083, Mutual Loss: 0.0042, Perceptual Loss: 1.2095, Mutual I Input Loss: 0.4297
+Epoch [210/2000], Step [6300], Total Loss: 87.8642, Recon VI Loss: 0.0023, Recon IR Loss: 0.0225, Mutual Loss: 0.0042, Perceptual Loss: 0.9602, Mutual I Input Loss: 0.3129
+Epoch [214/2000], Step [6400], Total Loss: 79.5115, Recon VI Loss: 0.0020, Recon IR Loss: 0.0135, Mutual Loss: 0.0034, Perceptual Loss: 1.2025, Mutual I Input Loss: 0.3409
+Epoch [217/2000], Step [6500], Total Loss: 91.0075, Recon VI Loss: 0.0008, Recon IR Loss: 0.0271, Mutual Loss: 0.0032, Perceptual Loss: 0.8608, Mutual I Input Loss: 0.2353
+Epoch [220/2000], Step [6600], Total Loss: 68.7990, Recon VI Loss: 0.0024, Recon IR Loss: 0.0132, Mutual Loss: 0.0040, Perceptual Loss: 0.9501, Mutual I Input Loss: 0.2660
+Epoch [224/2000], Step [6700], Total Loss: 109.3295, Recon VI Loss: 0.0015, Recon IR Loss: 0.0273, Mutual Loss: 0.0035, Perceptual Loss: 1.2758, Mutual I Input Loss: 0.3035
+Epoch [227/2000], Step [6800], Total Loss: 66.7494, Recon VI Loss: 0.0017, Recon IR Loss: 0.0140, Mutual Loss: 0.0031, Perceptual Loss: 0.8848, Mutual I Input Loss: 0.2437
+Epoch [230/2000], Step [6900], Total Loss: 65.9906, Recon VI Loss: 0.0014, Recon IR Loss: 0.0154, Mutual Loss: 0.0036, Perceptual Loss: 0.7852, Mutual I Input Loss: 0.3210
+Epoch [234/2000], Step [7000], Total Loss: 106.7670, Recon VI Loss: 0.0018, Recon IR Loss: 0.0273, Mutual Loss: 0.0037, Perceptual Loss: 1.1956, Mutual I Input Loss: 0.3703
+Epoch [237/2000], Step [7100], Total Loss: 81.6472, Recon VI Loss: 0.0017, Recon IR Loss: 0.0186, Mutual Loss: 0.0047, Perceptual Loss: 1.0120, Mutual I Input Loss: 0.3100
+Epoch [240/2000], Step [7200], Total Loss: 67.8244, Recon VI Loss: 0.0013, Recon IR Loss: 0.0169, Mutual Loss: 0.0031, Perceptual Loss: 0.7784, Mutual I Input Loss: 0.2170
+Epoch [244/2000], Step [7300], Total Loss: 96.0166, Recon VI Loss: 0.0013, Recon IR Loss: 0.0224, Mutual Loss: 0.0037, Perceptual Loss: 1.1788, Mutual I Input Loss: 0.3765
+Epoch [247/2000], Step [7400], Total Loss: 95.4489, Recon VI Loss: 0.0036, Recon IR Loss: 0.0238, Mutual Loss: 0.0037, Perceptual Loss: 1.0540, Mutual I Input Loss: 0.2943
+Epoch [250/2000], Step [7500], Total Loss: 67.2302, Recon VI Loss: 0.0014, Recon IR Loss: 0.0160, Mutual Loss: 0.0041, Perceptual Loss: 0.7902, Mutual I Input Loss: 0.3054
+Epoch [254/2000], Step [7600], Total Loss: 98.2797, Recon VI Loss: 0.0018, Recon IR Loss: 0.0223, Mutual Loss: 0.0030, Perceptual Loss: 1.2393, Mutual I Input Loss: 0.3145
+Epoch [257/2000], Step [7700], Total Loss: 60.2564, Recon VI Loss: 0.0010, Recon IR Loss: 0.0102, Mutual Loss: 0.0036, Perceptual Loss: 0.9248, Mutual I Input Loss: 0.2528
+Epoch [260/2000], Step [7800], Total Loss: 65.8422, Recon VI Loss: 0.0011, Recon IR Loss: 0.0166, Mutual Loss: 0.0026, Perceptual Loss: 0.7584, Mutual I Input Loss: 0.1732
+Epoch [264/2000], Step [7900], Total Loss: 120.4233, Recon VI Loss: 0.0018, Recon IR Loss: 0.0374, Mutual Loss: 0.0026, Perceptual Loss: 1.0565, Mutual I Input Loss: 0.2257
+Epoch [267/2000], Step [8000], Total Loss: 56.1862, Recon VI Loss: 0.0030, Recon IR Loss: 0.0038, Mutual Loss: 0.0030, Perceptual Loss: 1.0996, Mutual I Input Loss: 0.2155
+Epoch [270/2000], Step [8100], Total Loss: 70.1451, Recon VI Loss: 0.0022, Recon IR Loss: 0.0103, Mutual Loss: 0.0031, Perceptual Loss: 1.1353, Mutual I Input Loss: 0.2748
+Epoch [274/2000], Step [8200], Total Loss: 87.7132, Recon VI Loss: 0.0012, Recon IR Loss: 0.0175, Mutual Loss: 0.0029, Perceptual Loss: 1.2289, Mutual I Input Loss: 0.3229
+Epoch [277/2000], Step [8300], Total Loss: 65.1666, Recon VI Loss: 0.0017, Recon IR Loss: 0.0109, Mutual Loss: 0.0036, Perceptual Loss: 0.9984, Mutual I Input Loss: 0.2491
+Epoch [280/2000], Step [8400], Total Loss: 79.7129, Recon VI Loss: 0.0015, Recon IR Loss: 0.0200, Mutual Loss: 0.0031, Perceptual Loss: 0.9136, Mutual I Input Loss: 0.2356
+Epoch [284/2000], Step [8500], Total Loss: 94.0068, Recon VI Loss: 0.0014, Recon IR Loss: 0.0223, Mutual Loss: 0.0038, Perceptual Loss: 1.1288, Mutual I Input Loss: 0.3990
+Epoch [287/2000], Step [8600], Total Loss: 57.7529, Recon VI Loss: 0.0026, Recon IR Loss: 0.0056, Mutual Loss: 0.0028, Perceptual Loss: 1.0599, Mutual I Input Loss: 0.2089
+Epoch [290/2000], Step [8700], Total Loss: 45.7560, Recon VI Loss: 0.0007, Recon IR Loss: 0.0069, Mutual Loss: 0.0040, Perceptual Loss: 0.7206, Mutual I Input Loss: 0.3396
+Epoch [294/2000], Step [8800], Total Loss: 93.4657, Recon VI Loss: 0.0013, Recon IR Loss: 0.0202, Mutual Loss: 0.0029, Perceptual Loss: 1.2449, Mutual I Input Loss: 0.2676
+Epoch [297/2000], Step [8900], Total Loss: 53.2846, Recon VI Loss: 0.0017, Recon IR Loss: 0.0053, Mutual Loss: 0.0022, Perceptual Loss: 0.9964, Mutual I Input Loss: 0.1615
+Epoch [300/2000], Step [9000], Total Loss: 55.6358, Recon VI Loss: 0.0005, Recon IR Loss: 0.0113, Mutual Loss: 0.0032, Perceptual Loss: 0.7782, Mutual I Input Loss: 0.1880
+Saving epoch 300 models...
+Epoch [304/2000], Step [9100], Total Loss: 92.1081, Recon VI Loss: 0.0016, Recon IR Loss: 0.0234, Mutual Loss: 0.0020, Perceptual Loss: 1.0608, Mutual I Input Loss: 0.1809
+Epoch [307/2000], Step [9200], Total Loss: 57.2866, Recon VI Loss: 0.0010, Recon IR Loss: 0.0084, Mutual Loss: 0.0032, Perceptual Loss: 0.9510, Mutual I Input Loss: 0.2117
+Epoch [310/2000], Step [9300], Total Loss: 50.9425, Recon VI Loss: 0.0010, Recon IR Loss: 0.0068, Mutual Loss: 0.0030, Perceptual Loss: 0.8778, Mutual I Input Loss: 0.1786
+Epoch [314/2000], Step [9400], Total Loss: 78.5562, Recon VI Loss: 0.0014, Recon IR Loss: 0.0168, Mutual Loss: 0.0020, Perceptual Loss: 1.0651, Mutual I Input Loss: 0.1461
+Epoch [317/2000], Step [9500], Total Loss: 62.2382, Recon VI Loss: 0.0049, Recon IR Loss: 0.0060, Mutual Loss: 0.0027, Perceptual Loss: 1.0993, Mutual I Input Loss: 0.1878
+Epoch [320/2000], Step [9600], Total Loss: 49.1765, Recon VI Loss: 0.0007, Recon IR Loss: 0.0068, Mutual Loss: 0.0027, Perceptual Loss: 0.8436, Mutual I Input Loss: 0.1647
+Epoch [324/2000], Step [9700], Total Loss: 59.0960, Recon VI Loss: 0.0012, Recon IR Loss: 0.0050, Mutual Loss: 0.0029, Perceptual Loss: 1.1506, Mutual I Input Loss: 0.2624
+Epoch [327/2000], Step [9800], Total Loss: 57.2889, Recon VI Loss: 0.0012, Recon IR Loss: 0.0064, Mutual Loss: 0.0034, Perceptual Loss: 1.0501, Mutual I Input Loss: 0.1871
+Epoch [330/2000], Step [9900], Total Loss: 41.5401, Recon VI Loss: 0.0008, Recon IR Loss: 0.0044, Mutual Loss: 0.0027, Perceptual Loss: 0.7609, Mutual I Input Loss: 0.2020
+Epoch [334/2000], Step [10000], Total Loss: 70.2646, Recon VI Loss: 0.0013, Recon IR Loss: 0.0067, Mutual Loss: 0.0023, Perceptual Loss: 1.3599, Mutual I Input Loss: 0.1590
+Epoch [337/2000], Step [10100], Total Loss: 53.4659, Recon VI Loss: 0.0013, Recon IR Loss: 0.0051, Mutual Loss: 0.0050, Perceptual Loss: 0.9991, Mutual I Input Loss: 0.2742
+Epoch [340/2000], Step [10200], Total Loss: 45.3030, Recon VI Loss: 0.0006, Recon IR Loss: 0.0061, Mutual Loss: 0.0027, Perceptual Loss: 0.7788, Mutual I Input Loss: 0.1719
+Epoch [344/2000], Step [10300], Total Loss: 70.1027, Recon VI Loss: 0.0008, Recon IR Loss: 0.0114, Mutual Loss: 0.0023, Perceptual Loss: 1.1258, Mutual I Input Loss: 0.2066
+Epoch [347/2000], Step [10400], Total Loss: 54.7488, Recon VI Loss: 0.0007, Recon IR Loss: 0.0092, Mutual Loss: 0.0027, Perceptual Loss: 0.8617, Mutual I Input Loss: 0.1747
+Epoch [350/2000], Step [10500], Total Loss: 37.9390, Recon VI Loss: 0.0006, Recon IR Loss: 0.0027, Mutual Loss: 0.0023, Perceptual Loss: 0.7752, Mutual I Input Loss: 0.1363
+Epoch [354/2000], Step [10600], Total Loss: 63.0990, Recon VI Loss: 0.0011, Recon IR Loss: 0.0092, Mutual Loss: 0.0023, Perceptual Loss: 1.0638, Mutual I Input Loss: 0.1503
+Epoch [357/2000], Step [10700], Total Loss: 67.2519, Recon VI Loss: 0.0014, Recon IR Loss: 0.0157, Mutual Loss: 0.0030, Perceptual Loss: 0.8211, Mutual I Input Loss: 0.2177
+Epoch [360/2000], Step [10800], Total Loss: 52.2897, Recon VI Loss: 0.0006, Recon IR Loss: 0.0098, Mutual Loss: 0.0029, Perceptual Loss: 0.7694, Mutual I Input Loss: 0.1748
+Epoch [364/2000], Step [10900], Total Loss: 75.4990, Recon VI Loss: 0.0013, Recon IR Loss: 0.0149, Mutual Loss: 0.0016, Perceptual Loss: 1.0872, Mutual I Input Loss: 0.1307
+Epoch [367/2000], Step [11000], Total Loss: 97.6247, Recon VI Loss: 0.0011, Recon IR Loss: 0.0274, Mutual Loss: 0.0034, Perceptual Loss: 1.0058, Mutual I Input Loss: 0.2089
+Epoch [370/2000], Step [11100], Total Loss: 43.1551, Recon VI Loss: 0.0008, Recon IR Loss: 0.0055, Mutual Loss: 0.0025, Perceptual Loss: 0.7584, Mutual I Input Loss: 0.1471
+Epoch [374/2000], Step [11200], Total Loss: 52.6927, Recon VI Loss: 0.0010, Recon IR Loss: 0.0058, Mutual Loss: 0.0019, Perceptual Loss: 0.9800, Mutual I Input Loss: 0.1154
+Epoch [377/2000], Step [11300], Total Loss: 47.0808, Recon VI Loss: 0.0011, Recon IR Loss: 0.0024, Mutual Loss: 0.0032, Perceptual Loss: 0.9953, Mutual I Input Loss: 0.1908
+Epoch [380/2000], Step [11400], Total Loss: 42.9717, Recon VI Loss: 0.0007, Recon IR Loss: 0.0055, Mutual Loss: 0.0033, Perceptual Loss: 0.7468, Mutual I Input Loss: 0.1969
+Epoch [384/2000], Step [11500], Total Loss: 77.7714, Recon VI Loss: 0.0023, Recon IR Loss: 0.0100, Mutual Loss: 0.0019, Perceptual Loss: 1.3612, Mutual I Input Loss: 0.1484
+Epoch [387/2000], Step [11600], Total Loss: 44.6796, Recon VI Loss: 0.0010, Recon IR Loss: 0.0032, Mutual Loss: 0.0034, Perceptual Loss: 0.8954, Mutual I Input Loss: 0.2043
+Epoch [390/2000], Step [11700], Total Loss: 45.7549, Recon VI Loss: 0.0009, Recon IR Loss: 0.0051, Mutual Loss: 0.0029, Perceptual Loss: 0.8339, Mutual I Input Loss: 0.1745
+Epoch [394/2000], Step [11800], Total Loss: 47.5844, Recon VI Loss: 0.0014, Recon IR Loss: 0.0024, Mutual Loss: 0.0020, Perceptual Loss: 1.0135, Mutual I Input Loss: 0.1302
+Epoch [397/2000], Step [11900], Total Loss: 45.2995, Recon VI Loss: 0.0007, Recon IR Loss: 0.0020, Mutual Loss: 0.0034, Perceptual Loss: 0.9811, Mutual I Input Loss: 0.1816
+Epoch [400/2000], Step [12000], Total Loss: 37.7109, Recon VI Loss: 0.0008, Recon IR Loss: 0.0022, Mutual Loss: 0.0021, Perceptual Loss: 0.7892, Mutual I Input Loss: 0.1283
+Evaluating epoch 400 results...
+Saving epoch 400 models...
+Epoch [404/2000], Step [12100], Total Loss: 46.3420, Recon VI Loss: 0.0010, Recon IR Loss: 0.0045, Mutual Loss: 0.0028, Perceptual Loss: 0.8644, Mutual I Input Loss: 0.2554
+Epoch [407/2000], Step [12200], Total Loss: 38.3576, Recon VI Loss: 0.0004, Recon IR Loss: 0.0024, Mutual Loss: 0.0028, Perceptual Loss: 0.7994, Mutual I Input Loss: 0.1624
+Epoch [410/2000], Step [12300], Total Loss: 34.2820, Recon VI Loss: 0.0005, Recon IR Loss: 0.0017, Mutual Loss: 0.0028, Perceptual Loss: 0.7317, Mutual I Input Loss: 0.1492
+Epoch [414/2000], Step [12400], Total Loss: 72.3698, Recon VI Loss: 0.0023, Recon IR Loss: 0.0083, Mutual Loss: 0.0022, Perceptual Loss: 1.2909, Mutual I Input Loss: 0.2545
+Epoch [417/2000], Step [12500], Total Loss: 46.8602, Recon VI Loss: 0.0014, Recon IR Loss: 0.0024, Mutual Loss: 0.0031, Perceptual Loss: 0.9848, Mutual I Input Loss: 0.1620
+Epoch [420/2000], Step [12600], Total Loss: 39.6764, Recon VI Loss: 0.0015, Recon IR Loss: 0.0017, Mutual Loss: 0.0030, Perceptual Loss: 0.8404, Mutual I Input Loss: 0.1570
+Epoch [424/2000], Step [12700], Total Loss: 81.6269, Recon VI Loss: 0.0011, Recon IR Loss: 0.0168, Mutual Loss: 0.0015, Perceptual Loss: 1.1545, Mutual I Input Loss: 0.1064
+Epoch [427/2000], Step [12800], Total Loss: 50.0165, Recon VI Loss: 0.0020, Recon IR Loss: 0.0055, Mutual Loss: 0.0031, Perceptual Loss: 0.8971, Mutual I Input Loss: 0.1715
+Epoch [430/2000], Step [12900], Total Loss: 37.9532, Recon VI Loss: 0.0008, Recon IR Loss: 0.0013, Mutual Loss: 0.0024, Perceptual Loss: 0.8410, Mutual I Input Loss: 0.1376
+Epoch [434/2000], Step [13000], Total Loss: 62.2733, Recon VI Loss: 0.0015, Recon IR Loss: 0.0096, Mutual Loss: 0.0022, Perceptual Loss: 1.0076, Mutual I Input Loss: 0.1774
+Epoch [437/2000], Step [13100], Total Loss: 40.1054, Recon VI Loss: 0.0012, Recon IR Loss: 0.0020, Mutual Loss: 0.0033, Perceptual Loss: 0.8331, Mutual I Input Loss: 0.2206
+Epoch [440/2000], Step [13200], Total Loss: 32.0919, Recon VI Loss: 0.0014, Recon IR Loss: 0.0011, Mutual Loss: 0.0026, Perceptual Loss: 0.6876, Mutual I Input Loss: 0.1424
+Epoch [444/2000], Step [13300], Total Loss: 65.7265, Recon VI Loss: 0.0010, Recon IR Loss: 0.0142, Mutual Loss: 0.0022, Perceptual Loss: 0.8857, Mutual I Input Loss: 0.1284
+Epoch [447/2000], Step [13400], Total Loss: 36.4128, Recon VI Loss: 0.0009, Recon IR Loss: 0.0022, Mutual Loss: 0.0030, Perceptual Loss: 0.7434, Mutual I Input Loss: 0.1895
+Epoch [450/2000], Step [13500], Total Loss: 36.0467, Recon VI Loss: 0.0004, Recon IR Loss: 0.0023, Mutual Loss: 0.0025, Perceptual Loss: 0.7490, Mutual I Input Loss: 0.1424
+Epoch [454/2000], Step [13600], Total Loss: 51.8644, Recon VI Loss: 0.0017, Recon IR Loss: 0.0081, Mutual Loss: 0.0021, Perceptual Loss: 0.8224, Mutual I Input Loss: 0.1322
+Epoch [457/2000], Step [13700], Total Loss: 42.3447, Recon VI Loss: 0.0023, Recon IR Loss: 0.0037, Mutual Loss: 0.0045, Perceptual Loss: 0.7727, Mutual I Input Loss: 0.2341
+Epoch [460/2000], Step [13800], Total Loss: 38.4357, Recon VI Loss: 0.0010, Recon IR Loss: 0.0041, Mutual Loss: 0.0036, Perceptual Loss: 0.6935, Mutual I Input Loss: 0.1970
+Epoch [464/2000], Step [13900], Total Loss: 48.6032, Recon VI Loss: 0.0011, Recon IR Loss: 0.0033, Mutual Loss: 0.0029, Perceptual Loss: 0.9831, Mutual I Input Loss: 0.2369
+Epoch [467/2000], Step [14000], Total Loss: 39.0709, Recon VI Loss: 0.0011, Recon IR Loss: 0.0028, Mutual Loss: 0.0027, Perceptual Loss: 0.7840, Mutual I Input Loss: 0.1351
+Epoch [470/2000], Step [14100], Total Loss: 36.4811, Recon VI Loss: 0.0008, Recon IR Loss: 0.0036, Mutual Loss: 0.0031, Perceptual Loss: 0.6845, Mutual I Input Loss: 0.1528
+Epoch [474/2000], Step [14200], Total Loss: 58.9770, Recon VI Loss: 0.0008, Recon IR Loss: 0.0052, Mutual Loss: 0.0017, Perceptual Loss: 1.1751, Mutual I Input Loss: 0.1059
+Epoch [477/2000], Step [14300], Total Loss: 38.0246, Recon VI Loss: 0.0011, Recon IR Loss: 0.0018, Mutual Loss: 0.0026, Perceptual Loss: 0.8061, Mutual I Input Loss: 0.1479
+Epoch [480/2000], Step [14400], Total Loss: 32.8079, Recon VI Loss: 0.0008, Recon IR Loss: 0.0010, Mutual Loss: 0.0025, Perceptual Loss: 0.7233, Mutual I Input Loss: 0.1368
+Epoch [484/2000], Step [14500], Total Loss: 68.1419, Recon VI Loss: 0.0013, Recon IR Loss: 0.0063, Mutual Loss: 0.0021, Perceptual Loss: 1.3231, Mutual I Input Loss: 0.1668
+Epoch [487/2000], Step [14600], Total Loss: 41.2857, Recon VI Loss: 0.0006, Recon IR Loss: 0.0037, Mutual Loss: 0.0031, Perceptual Loss: 0.8003, Mutual I Input Loss: 0.1735
+Epoch [490/2000], Step [14700], Total Loss: 33.2467, Recon VI Loss: 0.0007, Recon IR Loss: 0.0018, Mutual Loss: 0.0035, Perceptual Loss: 0.6922, Mutual I Input Loss: 0.1646
+Epoch [494/2000], Step [14800], Total Loss: 44.8009, Recon VI Loss: 0.0009, Recon IR Loss: 0.0042, Mutual Loss: 0.0023, Perceptual Loss: 0.8646, Mutual I Input Loss: 0.1281
+Epoch [497/2000], Step [14900], Total Loss: 68.4297, Recon VI Loss: 0.0018, Recon IR Loss: 0.0107, Mutual Loss: 0.0024, Perceptual Loss: 1.1043, Mutual I Input Loss: 0.1510
+Epoch [500/2000], Step [15000], Total Loss: 34.6689, Recon VI Loss: 0.0005, Recon IR Loss: 0.0018, Mutual Loss: 0.0032, Perceptual Loss: 0.7329, Mutual I Input Loss: 0.1608
+Saving epoch 500 models...
+Epoch [504/2000], Step [15100], Total Loss: 53.2278, Recon VI Loss: 0.0011, Recon IR Loss: 0.0043, Mutual Loss: 0.0012, Perceptual Loss: 1.0705, Mutual I Input Loss: 0.0882
+Epoch [507/2000], Step [15200], Total Loss: 36.2760, Recon VI Loss: 0.0009, Recon IR Loss: 0.0032, Mutual Loss: 0.0038, Perceptual Loss: 0.6930, Mutual I Input Loss: 0.1774
+Epoch [510/2000], Step [15300], Total Loss: 37.0703, Recon VI Loss: 0.0005, Recon IR Loss: 0.0013, Mutual Loss: 0.0035, Perceptual Loss: 0.8194, Mutual I Input Loss: 0.1814
+Epoch [514/2000], Step [15400], Total Loss: 54.7581, Recon VI Loss: 0.0012, Recon IR Loss: 0.0077, Mutual Loss: 0.0020, Perceptual Loss: 0.9342, Mutual I Input Loss: 0.1112
+Epoch [517/2000], Step [15500], Total Loss: 54.5322, Recon VI Loss: 0.0005, Recon IR Loss: 0.0083, Mutual Loss: 0.0034, Perceptual Loss: 0.9048, Mutual I Input Loss: 0.1714
+Epoch [520/2000], Step [15600], Total Loss: 39.1702, Recon VI Loss: 0.0007, Recon IR Loss: 0.0023, Mutual Loss: 0.0022, Perceptual Loss: 0.8208, Mutual I Input Loss: 0.1292
+Epoch [524/2000], Step [15700], Total Loss: 55.2724, Recon VI Loss: 0.0010, Recon IR Loss: 0.0061, Mutual Loss: 0.0016, Perceptual Loss: 1.0333, Mutual I Input Loss: 0.0932
+Epoch [527/2000], Step [15800], Total Loss: 40.7253, Recon VI Loss: 0.0007, Recon IR Loss: 0.0039, Mutual Loss: 0.0033, Perceptual Loss: 0.7731, Mutual I Input Loss: 0.1827
+Epoch [530/2000], Step [15900], Total Loss: 39.9135, Recon VI Loss: 0.0005, Recon IR Loss: 0.0054, Mutual Loss: 0.0033, Perceptual Loss: 0.6856, Mutual I Input Loss: 0.1732
+Epoch [534/2000], Step [16000], Total Loss: 59.1728, Recon VI Loss: 0.0009, Recon IR Loss: 0.0045, Mutual Loss: 0.0014, Perceptual Loss: 1.2196, Mutual I Input Loss: 0.0826
+Epoch [537/2000], Step [16100], Total Loss: 37.7096, Recon VI Loss: 0.0005, Recon IR Loss: 0.0017, Mutual Loss: 0.0032, Perceptual Loss: 0.8146, Mutual I Input Loss: 0.1576
+Epoch [540/2000], Step [16200], Total Loss: 33.5081, Recon VI Loss: 0.0008, Recon IR Loss: 0.0016, Mutual Loss: 0.0023, Perceptual Loss: 0.7091, Mutual I Input Loss: 0.1492
+Epoch [544/2000], Step [16300], Total Loss: 42.7263, Recon VI Loss: 0.0013, Recon IR Loss: 0.0033, Mutual Loss: 0.0018, Perceptual Loss: 0.8495, Mutual I Input Loss: 0.1181
+Epoch [547/2000], Step [16400], Total Loss: 43.4205, Recon VI Loss: 0.0004, Recon IR Loss: 0.0019, Mutual Loss: 0.0024, Perceptual Loss: 0.9578, Mutual I Input Loss: 0.1365
+Epoch [550/2000], Step [16500], Total Loss: 35.1018, Recon VI Loss: 0.0021, Recon IR Loss: 0.0009, Mutual Loss: 0.0029, Perceptual Loss: 0.7550, Mutual I Input Loss: 0.1446
+Epoch [554/2000], Step [16600], Total Loss: 49.3438, Recon VI Loss: 0.0021, Recon IR Loss: 0.0027, Mutual Loss: 0.0031, Perceptual Loss: 1.0151, Mutual I Input Loss: 0.1657
+Epoch [557/2000], Step [16700], Total Loss: 35.8769, Recon VI Loss: 0.0007, Recon IR Loss: 0.0010, Mutual Loss: 0.0033, Perceptual Loss: 0.7955, Mutual I Input Loss: 0.1789
+Epoch [560/2000], Step [16800], Total Loss: 33.2519, Recon VI Loss: 0.0007, Recon IR Loss: 0.0010, Mutual Loss: 0.0027, Perceptual Loss: 0.7358, Mutual I Input Loss: 0.1441
+Epoch [564/2000], Step [16900], Total Loss: 67.0300, Recon VI Loss: 0.0012, Recon IR Loss: 0.0040, Mutual Loss: 0.0015, Perceptual Loss: 1.4308, Mutual I Input Loss: 0.0942
+Epoch [567/2000], Step [17000], Total Loss: 36.1652, Recon VI Loss: 0.0007, Recon IR Loss: 0.0021, Mutual Loss: 0.0027, Perceptual Loss: 0.7565, Mutual I Input Loss: 0.1467
+Epoch [570/2000], Step [17100], Total Loss: 37.1214, Recon VI Loss: 0.0006, Recon IR Loss: 0.0019, Mutual Loss: 0.0022, Perceptual Loss: 0.7963, Mutual I Input Loss: 0.1167
+Epoch [574/2000], Step [17200], Total Loss: 56.7395, Recon VI Loss: 0.0016, Recon IR Loss: 0.0067, Mutual Loss: 0.0020, Perceptual Loss: 1.0138, Mutual I Input Loss: 0.1663
+Epoch [577/2000], Step [17300], Total Loss: 38.9925, Recon VI Loss: 0.0030, Recon IR Loss: 0.0007, Mutual Loss: 0.0043, Perceptual Loss: 0.8208, Mutual I Input Loss: 0.2268
+Epoch [580/2000], Step [17400], Total Loss: 33.1850, Recon VI Loss: 0.0010, Recon IR Loss: 0.0006, Mutual Loss: 0.0024, Perceptual Loss: 0.7458, Mutual I Input Loss: 0.1535
+Epoch [584/2000], Step [17500], Total Loss: 57.5422, Recon VI Loss: 0.0008, Recon IR Loss: 0.0028, Mutual Loss: 0.0026, Perceptual Loss: 1.2512, Mutual I Input Loss: 0.1431
+Epoch [587/2000], Step [17600], Total Loss: 38.7508, Recon VI Loss: 0.0008, Recon IR Loss: 0.0013, Mutual Loss: 0.0032, Perceptual Loss: 0.8509, Mutual I Input Loss: 0.1768
+Epoch [590/2000], Step [17700], Total Loss: 30.1256, Recon VI Loss: 0.0004, Recon IR Loss: 0.0011, Mutual Loss: 0.0039, Perceptual Loss: 0.6497, Mutual I Input Loss: 0.2109
+Epoch [594/2000], Step [17800], Total Loss: 53.5945, Recon VI Loss: 0.0012, Recon IR Loss: 0.0052, Mutual Loss: 0.0011, Perceptual Loss: 1.0328, Mutual I Input Loss: 0.0915
+Epoch [597/2000], Step [17900], Total Loss: 56.2723, Recon VI Loss: 0.0004, Recon IR Loss: 0.0107, Mutual Loss: 0.0027, Perceptual Loss: 0.8388, Mutual I Input Loss: 0.1394
+Epoch [600/2000], Step [18000], Total Loss: 39.3565, Recon VI Loss: 0.0006, Recon IR Loss: 0.0021, Mutual Loss: 0.0020, Perceptual Loss: 0.8446, Mutual I Input Loss: 0.1161
+Evaluating epoch 600 results...
+Saving epoch 600 models...
+Epoch [604/2000], Step [18100], Total Loss: 54.1092, Recon VI Loss: 0.0015, Recon IR Loss: 0.0045, Mutual Loss: 0.0013, Perceptual Loss: 1.0779, Mutual I Input Loss: 0.0736
+Epoch [607/2000], Step [18200], Total Loss: 40.0026, Recon VI Loss: 0.0006, Recon IR Loss: 0.0016, Mutual Loss: 0.0028, Perceptual Loss: 0.8777, Mutual I Input Loss: 0.1437
+Epoch [610/2000], Step [18300], Total Loss: 29.9584, Recon VI Loss: 0.0006, Recon IR Loss: 0.0025, Mutual Loss: 0.0037, Perceptual Loss: 0.5807, Mutual I Input Loss: 0.1729
+Epoch [614/2000], Step [18400], Total Loss: 48.4777, Recon VI Loss: 0.0012, Recon IR Loss: 0.0025, Mutual Loss: 0.0015, Perceptual Loss: 1.0396, Mutual I Input Loss: 0.0934
+Epoch [617/2000], Step [18500], Total Loss: 42.0919, Recon VI Loss: 0.0009, Recon IR Loss: 0.0015, Mutual Loss: 0.0035, Perceptual Loss: 0.9257, Mutual I Input Loss: 0.1773
+Epoch [620/2000], Step [18600], Total Loss: 27.8875, Recon VI Loss: 0.0016, Recon IR Loss: 0.0007, Mutual Loss: 0.0044, Perceptual Loss: 0.5855, Mutual I Input Loss: 0.1967
+Epoch [624/2000], Step [18700], Total Loss: 40.3912, Recon VI Loss: 0.0015, Recon IR Loss: 0.0036, Mutual Loss: 0.0016, Perceptual Loss: 0.7773, Mutual I Input Loss: 0.0964
+Epoch [627/2000], Step [18800], Total Loss: 40.6032, Recon VI Loss: 0.0004, Recon IR Loss: 0.0024, Mutual Loss: 0.0034, Perceptual Loss: 0.8519, Mutual I Input Loss: 0.1752
+Epoch [630/2000], Step [18900], Total Loss: 45.1968, Recon VI Loss: 0.0007, Recon IR Loss: 0.0014, Mutual Loss: 0.0020, Perceptual Loss: 1.0232, Mutual I Input Loss: 0.1080
+Epoch [634/2000], Step [19000], Total Loss: 50.5264, Recon VI Loss: 0.0010, Recon IR Loss: 0.0068, Mutual Loss: 0.0011, Perceptual Loss: 0.8832, Mutual I Input Loss: 0.0761
+Epoch [637/2000], Step [19100], Total Loss: 38.2336, Recon VI Loss: 0.0006, Recon IR Loss: 0.0007, Mutual Loss: 0.0036, Perceptual Loss: 0.8736, Mutual I Input Loss: 0.1741
+Epoch [640/2000], Step [19200], Total Loss: 35.6742, Recon VI Loss: 0.0005, Recon IR Loss: 0.0013, Mutual Loss: 0.0029, Perceptual Loss: 0.7915, Mutual I Input Loss: 0.1383
+Epoch [644/2000], Step [19300], Total Loss: 57.2871, Recon VI Loss: 0.0010, Recon IR Loss: 0.0062, Mutual Loss: 0.0019, Perceptual Loss: 1.0818, Mutual I Input Loss: 0.0924
+Epoch [647/2000], Step [19400], Total Loss: 37.1390, Recon VI Loss: 0.0011, Recon IR Loss: 0.0025, Mutual Loss: 0.0029, Perceptual Loss: 0.7504, Mutual I Input Loss: 0.1403
+Epoch [650/2000], Step [19500], Total Loss: 32.1282, Recon VI Loss: 0.0013, Recon IR Loss: 0.0013, Mutual Loss: 0.0033, Perceptual Loss: 0.6802, Mutual I Input Loss: 0.1496
+Epoch [654/2000], Step [19600], Total Loss: 48.0256, Recon VI Loss: 0.0013, Recon IR Loss: 0.0052, Mutual Loss: 0.0023, Perceptual Loss: 0.8860, Mutual I Input Loss: 0.1357
+Epoch [657/2000], Step [19700], Total Loss: 37.2674, Recon VI Loss: 0.0008, Recon IR Loss: 0.0016, Mutual Loss: 0.0025, Perceptual Loss: 0.8104, Mutual I Input Loss: 0.1189
+Epoch [660/2000], Step [19800], Total Loss: 40.8547, Recon VI Loss: 0.0008, Recon IR Loss: 0.0009, Mutual Loss: 0.0031, Perceptual Loss: 0.9212, Mutual I Input Loss: 0.1982
+Epoch [664/2000], Step [19900], Total Loss: 57.7842, Recon VI Loss: 0.0010, Recon IR Loss: 0.0113, Mutual Loss: 0.0009, Perceptual Loss: 0.8463, Mutual I Input Loss: 0.0629
+Epoch [667/2000], Step [20000], Total Loss: 35.5999, Recon VI Loss: 0.0008, Recon IR Loss: 0.0013, Mutual Loss: 0.0036, Perceptual Loss: 0.7747, Mutual I Input Loss: 0.1823
+Epoch [670/2000], Step [20100], Total Loss: 36.0174, Recon VI Loss: 0.0007, Recon IR Loss: 0.0009, Mutual Loss: 0.0022, Perceptual Loss: 0.8123, Mutual I Input Loss: 0.1302
+Epoch [674/2000], Step [20200], Total Loss: 58.5779, Recon VI Loss: 0.0009, Recon IR Loss: 0.0072, Mutual Loss: 0.0020, Perceptual Loss: 1.0642, Mutual I Input Loss: 0.0968
+Epoch [677/2000], Step [20300], Total Loss: 34.5222, Recon VI Loss: 0.0006, Recon IR Loss: 0.0009, Mutual Loss: 0.0031, Perceptual Loss: 0.7752, Mutual I Input Loss: 0.1514
+Epoch [680/2000], Step [20400], Total Loss: 35.2098, Recon VI Loss: 0.0005, Recon IR Loss: 0.0011, Mutual Loss: 0.0028, Perceptual Loss: 0.7919, Mutual I Input Loss: 0.1235
+Epoch [684/2000], Step [20500], Total Loss: 53.6569, Recon VI Loss: 0.0012, Recon IR Loss: 0.0075, Mutual Loss: 0.0013, Perceptual Loss: 0.9203, Mutual I Input Loss: 0.1051
+Epoch [687/2000], Step [20600], Total Loss: 37.4843, Recon VI Loss: 0.0008, Recon IR Loss: 0.0029, Mutual Loss: 0.0047, Perceptual Loss: 0.7288, Mutual I Input Loss: 0.2455
+Epoch [690/2000], Step [20700], Total Loss: 29.5900, Recon VI Loss: 0.0014, Recon IR Loss: 0.0013, Mutual Loss: 0.0040, Perceptual Loss: 0.6010, Mutual I Input Loss: 0.2036
+Epoch [694/2000], Step [20800], Total Loss: 49.2394, Recon VI Loss: 0.0013, Recon IR Loss: 0.0027, Mutual Loss: 0.0013, Perceptual Loss: 1.0466, Mutual I Input Loss: 0.0867
+Epoch [697/2000], Step [20900], Total Loss: 33.5861, Recon VI Loss: 0.0004, Recon IR Loss: 0.0010, Mutual Loss: 0.0034, Perceptual Loss: 0.7464, Mutual I Input Loss: 0.1696
+Epoch [700/2000], Step [21000], Total Loss: 31.5821, Recon VI Loss: 0.0006, Recon IR Loss: 0.0015, Mutual Loss: 0.0045, Perceptual Loss: 0.6623, Mutual I Input Loss: 0.2068
+Saving epoch 700 models...
+Epoch [704/2000], Step [21100], Total Loss: 57.0408, Recon VI Loss: 0.0020, Recon IR Loss: 0.0055, Mutual Loss: 0.0016, Perceptual Loss: 1.0849, Mutual I Input Loss: 0.0994
+Epoch [707/2000], Step [21200], Total Loss: 34.6038, Recon VI Loss: 0.0004, Recon IR Loss: 0.0010, Mutual Loss: 0.0032, Perceptual Loss: 0.7801, Mutual I Input Loss: 0.1453
+Epoch [710/2000], Step [21300], Total Loss: 28.3389, Recon VI Loss: 0.0008, Recon IR Loss: 0.0006, Mutual Loss: 0.0030, Perceptual Loss: 0.6358, Mutual I Input Loss: 0.1361
+Epoch [714/2000], Step [21400], Total Loss: 40.0011, Recon VI Loss: 0.0008, Recon IR Loss: 0.0034, Mutual Loss: 0.0021, Perceptual Loss: 0.7914, Mutual I Input Loss: 0.1046
+Epoch [717/2000], Step [21500], Total Loss: 31.9524, Recon VI Loss: 0.0013, Recon IR Loss: 0.0005, Mutual Loss: 0.0032, Perceptual Loss: 0.7129, Mutual I Input Loss: 0.1539
+Epoch [720/2000], Step [21600], Total Loss: 32.1581, Recon VI Loss: 0.0022, Recon IR Loss: 0.0006, Mutual Loss: 0.0040, Perceptual Loss: 0.6812, Mutual I Input Loss: 0.2150
+Epoch [724/2000], Step [21700], Total Loss: 45.4860, Recon VI Loss: 0.0009, Recon IR Loss: 0.0034, Mutual Loss: 0.0017, Perceptual Loss: 0.9291, Mutual I Input Loss: 0.0917
+Epoch [727/2000], Step [21800], Total Loss: 34.9916, Recon VI Loss: 0.0010, Recon IR Loss: 0.0016, Mutual Loss: 0.0040, Perceptual Loss: 0.7359, Mutual I Input Loss: 0.1952
+Epoch [730/2000], Step [21900], Total Loss: 38.4391, Recon VI Loss: 0.0010, Recon IR Loss: 0.0010, Mutual Loss: 0.0020, Perceptual Loss: 0.8695, Mutual I Input Loss: 0.1028
+Epoch [734/2000], Step [22000], Total Loss: 36.9461, Recon VI Loss: 0.0010, Recon IR Loss: 0.0009, Mutual Loss: 0.0021, Perceptual Loss: 0.8386, Mutual I Input Loss: 0.0948
+Epoch [737/2000], Step [22100], Total Loss: 30.2192, Recon VI Loss: 0.0007, Recon IR Loss: 0.0009, Mutual Loss: 0.0035, Perceptual Loss: 0.6621, Mutual I Input Loss: 0.1655
+Epoch [740/2000], Step [22200], Total Loss: 29.6297, Recon VI Loss: 0.0005, Recon IR Loss: 0.0014, Mutual Loss: 0.0040, Perceptual Loss: 0.6257, Mutual I Input Loss: 0.1726
+Epoch [744/2000], Step [22300], Total Loss: 39.6426, Recon VI Loss: 0.0009, Recon IR Loss: 0.0015, Mutual Loss: 0.0012, Perceptual Loss: 0.8803, Mutual I Input Loss: 0.0768
+Epoch [747/2000], Step [22400], Total Loss: 31.1130, Recon VI Loss: 0.0009, Recon IR Loss: 0.0005, Mutual Loss: 0.0048, Perceptual Loss: 0.6915, Mutual I Input Loss: 0.2226
+Epoch [750/2000], Step [22500], Total Loss: 36.6489, Recon VI Loss: 0.0005, Recon IR Loss: 0.0008, Mutual Loss: 0.0025, Perceptual Loss: 0.8447, Mutual I Input Loss: 0.1152
+Epoch [754/2000], Step [22600], Total Loss: 54.6785, Recon VI Loss: 0.0010, Recon IR Loss: 0.0103, Mutual Loss: 0.0013, Perceptual Loss: 0.8116, Mutual I Input Loss: 0.0841
+Epoch [757/2000], Step [22700], Total Loss: 49.4584, Recon VI Loss: 0.0017, Recon IR Loss: 0.0069, Mutual Loss: 0.0035, Perceptual Loss: 0.8240, Mutual I Input Loss: 0.1573
+Epoch [760/2000], Step [22800], Total Loss: 30.3303, Recon VI Loss: 0.0005, Recon IR Loss: 0.0004, Mutual Loss: 0.0028, Perceptual Loss: 0.7004, Mutual I Input Loss: 0.1245
+Epoch [764/2000], Step [22900], Total Loss: 50.5843, Recon VI Loss: 0.0008, Recon IR Loss: 0.0059, Mutual Loss: 0.0010, Perceptual Loss: 0.9367, Mutual I Input Loss: 0.0653
+Epoch [767/2000], Step [23000], Total Loss: 32.8346, Recon VI Loss: 0.0006, Recon IR Loss: 0.0023, Mutual Loss: 0.0033, Perceptual Loss: 0.6625, Mutual I Input Loss: 0.1513
+Epoch [770/2000], Step [23100], Total Loss: 31.4874, Recon VI Loss: 0.0004, Recon IR Loss: 0.0007, Mutual Loss: 0.0027, Perceptual Loss: 0.7174, Mutual I Input Loss: 0.1504
+Epoch [774/2000], Step [23200], Total Loss: 40.5139, Recon VI Loss: 0.0010, Recon IR Loss: 0.0024, Mutual Loss: 0.0014, Perceptual Loss: 0.8546, Mutual I Input Loss: 0.0848
+Epoch [777/2000], Step [23300], Total Loss: 36.8092, Recon VI Loss: 0.0006, Recon IR Loss: 0.0003, Mutual Loss: 0.0036, Perceptual Loss: 0.8597, Mutual I Input Loss: 0.1634
+Epoch [780/2000], Step [23400], Total Loss: 31.6823, Recon VI Loss: 0.0005, Recon IR Loss: 0.0022, Mutual Loss: 0.0033, Perceptual Loss: 0.6371, Mutual I Input Loss: 0.1710
+Epoch [784/2000], Step [23500], Total Loss: 37.9416, Recon VI Loss: 0.0008, Recon IR Loss: 0.0015, Mutual Loss: 0.0014, Perceptual Loss: 0.8385, Mutual I Input Loss: 0.0872
+Epoch [787/2000], Step [23600], Total Loss: 38.5266, Recon VI Loss: 0.0012, Recon IR Loss: 0.0032, Mutual Loss: 0.0046, Perceptual Loss: 0.7310, Mutual I Input Loss: 0.2309
+Epoch [790/2000], Step [23700], Total Loss: 45.3248, Recon VI Loss: 0.0027, Recon IR Loss: 0.0008, Mutual Loss: 0.0019, Perceptual Loss: 1.0021, Mutual I Input Loss: 0.1417
+Epoch [794/2000], Step [23800], Total Loss: 46.2320, Recon VI Loss: 0.0009, Recon IR Loss: 0.0026, Mutual Loss: 0.0015, Perceptual Loss: 0.9882, Mutual I Input Loss: 0.0868
+Epoch [797/2000], Step [23900], Total Loss: 37.2326, Recon VI Loss: 0.0014, Recon IR Loss: 0.0005, Mutual Loss: 0.0023, Perceptual Loss: 0.8452, Mutual I Input Loss: 0.1348
+Epoch [800/2000], Step [24000], Total Loss: 36.6499, Recon VI Loss: 0.0014, Recon IR Loss: 0.0010, Mutual Loss: 0.0038, Perceptual Loss: 0.7970, Mutual I Input Loss: 0.1805
+Evaluating epoch 800 results...
+Saving epoch 800 models...
+Epoch [804/2000], Step [24100], Total Loss: 58.2855, Recon VI Loss: 0.0012, Recon IR Loss: 0.0070, Mutual Loss: 0.0012, Perceptual Loss: 1.0639, Mutual I Input Loss: 0.0597
+Epoch [807/2000], Step [24200], Total Loss: 49.3098, Recon VI Loss: 0.0004, Recon IR Loss: 0.0083, Mutual Loss: 0.0031, Perceptual Loss: 0.7830, Mutual I Input Loss: 0.1443
+Epoch [810/2000], Step [24300], Total Loss: 33.2258, Recon VI Loss: 0.0005, Recon IR Loss: 0.0012, Mutual Loss: 0.0027, Perceptual Loss: 0.7330, Mutual I Input Loss: 0.1449
+Epoch [814/2000], Step [24400], Total Loss: 45.5596, Recon VI Loss: 0.0010, Recon IR Loss: 0.0026, Mutual Loss: 0.0014, Perceptual Loss: 0.9686, Mutual I Input Loss: 0.0756
+Epoch [817/2000], Step [24500], Total Loss: 34.9849, Recon VI Loss: 0.0006, Recon IR Loss: 0.0012, Mutual Loss: 0.0024, Perceptual Loss: 0.7755, Mutual I Input Loss: 0.1404
+Epoch [820/2000], Step [24600], Total Loss: 33.6270, Recon VI Loss: 0.0004, Recon IR Loss: 0.0020, Mutual Loss: 0.0022, Perceptual Loss: 0.7092, Mutual I Input Loss: 0.1093
+Epoch [824/2000], Step [24700], Total Loss: 59.4694, Recon VI Loss: 0.0009, Recon IR Loss: 0.0080, Mutual Loss: 0.0015, Perceptual Loss: 1.0471, Mutual I Input Loss: 0.0969
+Epoch [827/2000], Step [24800], Total Loss: 38.4500, Recon VI Loss: 0.0011, Recon IR Loss: 0.0009, Mutual Loss: 0.0022, Perceptual Loss: 0.8685, Mutual I Input Loss: 0.1223
+Epoch [830/2000], Step [24900], Total Loss: 31.5692, Recon VI Loss: 0.0014, Recon IR Loss: 0.0025, Mutual Loss: 0.0031, Perceptual Loss: 0.5982, Mutual I Input Loss: 0.1656
+Epoch [834/2000], Step [25000], Total Loss: 42.8484, Recon VI Loss: 0.0007, Recon IR Loss: 0.0024, Mutual Loss: 0.0020, Perceptual Loss: 0.9127, Mutual I Input Loss: 0.1194
+Epoch [837/2000], Step [25100], Total Loss: 38.3811, Recon VI Loss: 0.0008, Recon IR Loss: 0.0034, Mutual Loss: 0.0031, Perceptual Loss: 0.7414, Mutual I Input Loss: 0.1465
+Epoch [840/2000], Step [25200], Total Loss: 28.0764, Recon VI Loss: 0.0005, Recon IR Loss: 0.0009, Mutual Loss: 0.0025, Perceptual Loss: 0.6227, Mutual I Input Loss: 0.1201
+Epoch [844/2000], Step [25300], Total Loss: 49.0007, Recon VI Loss: 0.0007, Recon IR Loss: 0.0028, Mutual Loss: 0.0011, Perceptual Loss: 1.0566, Mutual I Input Loss: 0.0692
+Epoch [847/2000], Step [25400], Total Loss: 38.4402, Recon VI Loss: 0.0039, Recon IR Loss: 0.0012, Mutual Loss: 0.0047, Perceptual Loss: 0.7670, Mutual I Input Loss: 0.2084
+Epoch [850/2000], Step [25500], Total Loss: 33.4575, Recon VI Loss: 0.0006, Recon IR Loss: 0.0006, Mutual Loss: 0.0038, Perceptual Loss: 0.7582, Mutual I Input Loss: 0.1891
+Epoch [854/2000], Step [25600], Total Loss: 43.5630, Recon VI Loss: 0.0007, Recon IR Loss: 0.0029, Mutual Loss: 0.0018, Perceptual Loss: 0.9118, Mutual I Input Loss: 0.0981
+Epoch [857/2000], Step [25700], Total Loss: 36.6761, Recon VI Loss: 0.0014, Recon IR Loss: 0.0006, Mutual Loss: 0.0043, Perceptual Loss: 0.8119, Mutual I Input Loss: 0.2070
+Epoch [860/2000], Step [25800], Total Loss: 28.2874, Recon VI Loss: 0.0007, Recon IR Loss: 0.0006, Mutual Loss: 0.0033, Perceptual Loss: 0.6334, Mutual I Input Loss: 0.1574
+Epoch [864/2000], Step [25900], Total Loss: 44.8041, Recon VI Loss: 0.0008, Recon IR Loss: 0.0044, Mutual Loss: 0.0014, Perceptual Loss: 0.8629, Mutual I Input Loss: 0.0789
+Epoch [867/2000], Step [26000], Total Loss: 41.4904, Recon VI Loss: 0.0007, Recon IR Loss: 0.0014, Mutual Loss: 0.0037, Perceptual Loss: 0.9180, Mutual I Input Loss: 0.1830
+Epoch [870/2000], Step [26100], Total Loss: 29.2912, Recon VI Loss: 0.0006, Recon IR Loss: 0.0012, Mutual Loss: 0.0030, Perceptual Loss: 0.6262, Mutual I Input Loss: 0.1528
+Epoch [874/2000], Step [26200], Total Loss: 46.5152, Recon VI Loss: 0.0011, Recon IR Loss: 0.0031, Mutual Loss: 0.0018, Perceptual Loss: 0.9604, Mutual I Input Loss: 0.0998
+Epoch [877/2000], Step [26300], Total Loss: 58.4383, Recon VI Loss: 0.0004, Recon IR Loss: 0.0106, Mutual Loss: 0.0029, Perceptual Loss: 0.8948, Mutual I Input Loss: 0.1456
+Epoch [880/2000], Step [26400], Total Loss: 32.7090, Recon VI Loss: 0.0007, Recon IR Loss: 0.0008, Mutual Loss: 0.0017, Perceptual Loss: 0.7455, Mutual I Input Loss: 0.0960
+Epoch [884/2000], Step [26500], Total Loss: 38.3007, Recon VI Loss: 0.0007, Recon IR Loss: 0.0029, Mutual Loss: 0.0021, Perceptual Loss: 0.7783, Mutual I Input Loss: 0.1030
+Epoch [887/2000], Step [26600], Total Loss: 43.4239, Recon VI Loss: 0.0009, Recon IR Loss: 0.0049, Mutual Loss: 0.0031, Perceptual Loss: 0.7912, Mutual I Input Loss: 0.1568
+Epoch [890/2000], Step [26700], Total Loss: 30.2112, Recon VI Loss: 0.0004, Recon IR Loss: 0.0010, Mutual Loss: 0.0030, Perceptual Loss: 0.6721, Mutual I Input Loss: 0.1418
+Epoch [894/2000], Step [26800], Total Loss: 49.3655, Recon VI Loss: 0.0009, Recon IR Loss: 0.0073, Mutual Loss: 0.0014, Perceptual Loss: 0.8308, Mutual I Input Loss: 0.0777
+Epoch [897/2000], Step [26900], Total Loss: 34.2464, Recon VI Loss: 0.0008, Recon IR Loss: 0.0007, Mutual Loss: 0.0042, Perceptual Loss: 0.7644, Mutual I Input Loss: 0.2185
+Epoch [900/2000], Step [27000], Total Loss: 29.3144, Recon VI Loss: 0.0006, Recon IR Loss: 0.0003, Mutual Loss: 0.0027, Perceptual Loss: 0.6779, Mutual I Input Loss: 0.1267
+Saving epoch 900 models...
+Epoch [904/2000], Step [27100], Total Loss: 40.3444, Recon VI Loss: 0.0008, Recon IR Loss: 0.0016, Mutual Loss: 0.0012, Perceptual Loss: 0.8950, Mutual I Input Loss: 0.0812
+Epoch [907/2000], Step [27200], Total Loss: 40.9450, Recon VI Loss: 0.0012, Recon IR Loss: 0.0059, Mutual Loss: 0.0037, Perceptual Loss: 0.6651, Mutual I Input Loss: 0.1776
+Epoch [910/2000], Step [27300], Total Loss: 39.5163, Recon VI Loss: 0.0011, Recon IR Loss: 0.0005, Mutual Loss: 0.0018, Perceptual Loss: 0.9168, Mutual I Input Loss: 0.1024
+Epoch [914/2000], Step [27400], Total Loss: 42.2273, Recon VI Loss: 0.0009, Recon IR Loss: 0.0048, Mutual Loss: 0.0014, Perceptual Loss: 0.7812, Mutual I Input Loss: 0.0743
+Epoch [917/2000], Step [27500], Total Loss: 26.9792, Recon VI Loss: 0.0010, Recon IR Loss: 0.0010, Mutual Loss: 0.0034, Perceptual Loss: 0.5713, Mutual I Input Loss: 0.1546
+Epoch [920/2000], Step [27600], Total Loss: 33.2296, Recon VI Loss: 0.0006, Recon IR Loss: 0.0011, Mutual Loss: 0.0023, Perceptual Loss: 0.7412, Mutual I Input Loss: 0.1129
+Epoch [924/2000], Step [27700], Total Loss: 36.1602, Recon VI Loss: 0.0008, Recon IR Loss: 0.0023, Mutual Loss: 0.0022, Perceptual Loss: 0.7513, Mutual I Input Loss: 0.1038
+Epoch [927/2000], Step [27800], Total Loss: 33.3150, Recon VI Loss: 0.0011, Recon IR Loss: 0.0004, Mutual Loss: 0.0038, Perceptual Loss: 0.7578, Mutual I Input Loss: 0.1561
+Epoch [930/2000], Step [27900], Total Loss: 33.8045, Recon VI Loss: 0.0003, Recon IR Loss: 0.0012, Mutual Loss: 0.0023, Perceptual Loss: 0.7531, Mutual I Input Loss: 0.1239
+Epoch [934/2000], Step [28000], Total Loss: 41.7911, Recon VI Loss: 0.0015, Recon IR Loss: 0.0018, Mutual Loss: 0.0026, Perceptual Loss: 0.8949, Mutual I Input Loss: 0.1234
+Epoch [937/2000], Step [28100], Total Loss: 37.3158, Recon VI Loss: 0.0004, Recon IR Loss: 0.0016, Mutual Loss: 0.0031, Perceptual Loss: 0.8127, Mutual I Input Loss: 0.1617
+Epoch [940/2000], Step [28200], Total Loss: 33.1393, Recon VI Loss: 0.0010, Recon IR Loss: 0.0004, Mutual Loss: 0.0030, Perceptual Loss: 0.7594, Mutual I Input Loss: 0.1430
+Epoch [944/2000], Step [28300], Total Loss: 49.8543, Recon VI Loss: 0.0008, Recon IR Loss: 0.0033, Mutual Loss: 0.0019, Perceptual Loss: 1.0418, Mutual I Input Loss: 0.1075
+Epoch [947/2000], Step [28400], Total Loss: 33.5466, Recon VI Loss: 0.0004, Recon IR Loss: 0.0013, Mutual Loss: 0.0028, Perceptual Loss: 0.7375, Mutual I Input Loss: 0.1421
+Epoch [950/2000], Step [28500], Total Loss: 29.3964, Recon VI Loss: 0.0006, Recon IR Loss: 0.0006, Mutual Loss: 0.0031, Perceptual Loss: 0.6614, Mutual I Input Loss: 0.1549
+Epoch [954/2000], Step [28600], Total Loss: 47.2580, Recon VI Loss: 0.0011, Recon IR Loss: 0.0060, Mutual Loss: 0.0010, Perceptual Loss: 0.8411, Mutual I Input Loss: 0.0757
+Epoch [957/2000], Step [28700], Total Loss: 34.2885, Recon VI Loss: 0.0006, Recon IR Loss: 0.0024, Mutual Loss: 0.0033, Perceptual Loss: 0.6956, Mutual I Input Loss: 0.1455
+Epoch [960/2000], Step [28800], Total Loss: 29.9776, Recon VI Loss: 0.0007, Recon IR Loss: 0.0004, Mutual Loss: 0.0019, Perceptual Loss: 0.6945, Mutual I Input Loss: 0.1015
+Epoch [964/2000], Step [28900], Total Loss: 42.7276, Recon VI Loss: 0.0010, Recon IR Loss: 0.0016, Mutual Loss: 0.0020, Perceptual Loss: 0.9448, Mutual I Input Loss: 0.0915
+Epoch [967/2000], Step [29000], Total Loss: 31.7969, Recon VI Loss: 0.0019, Recon IR Loss: 0.0008, Mutual Loss: 0.0051, Perceptual Loss: 0.6662, Mutual I Input Loss: 0.2278
+Epoch [970/2000], Step [29100], Total Loss: 27.9705, Recon VI Loss: 0.0006, Recon IR Loss: 0.0005, Mutual Loss: 0.0035, Perceptual Loss: 0.6285, Mutual I Input Loss: 0.1630
+Epoch [974/2000], Step [29200], Total Loss: 50.2723, Recon VI Loss: 0.0012, Recon IR Loss: 0.0033, Mutual Loss: 0.0012, Perceptual Loss: 1.0487, Mutual I Input Loss: 0.0827
+Epoch [977/2000], Step [29300], Total Loss: 32.1174, Recon VI Loss: 0.0008, Recon IR Loss: 0.0010, Mutual Loss: 0.0040, Perceptual Loss: 0.7034, Mutual I Input Loss: 0.1742
+Epoch [980/2000], Step [29400], Total Loss: 26.1376, Recon VI Loss: 0.0006, Recon IR Loss: 0.0005, Mutual Loss: 0.0030, Perceptual Loss: 0.5886, Mutual I Input Loss: 0.1336
+Epoch [984/2000], Step [29500], Total Loss: 43.7856, Recon VI Loss: 0.0009, Recon IR Loss: 0.0015, Mutual Loss: 0.0011, Perceptual Loss: 0.9876, Mutual I Input Loss: 0.0653
+Epoch [987/2000], Step [29600], Total Loss: 33.8411, Recon VI Loss: 0.0014, Recon IR Loss: 0.0012, Mutual Loss: 0.0037, Perceptual Loss: 0.7156, Mutual I Input Loss: 0.1811
+Epoch [990/2000], Step [29700], Total Loss: 26.0931, Recon VI Loss: 0.0009, Recon IR Loss: 0.0006, Mutual Loss: 0.0036, Perceptual Loss: 0.5715, Mutual I Input Loss: 0.1575
+Epoch [994/2000], Step [29800], Total Loss: 45.3025, Recon VI Loss: 0.0008, Recon IR Loss: 0.0020, Mutual Loss: 0.0016, Perceptual Loss: 0.9970, Mutual I Input Loss: 0.0896
+Epoch [997/2000], Step [29900], Total Loss: 35.8612, Recon VI Loss: 0.0006, Recon IR Loss: 0.0027, Mutual Loss: 0.0032, Perceptual Loss: 0.7212, Mutual I Input Loss: 0.1380
+Epoch [1000/2000], Step [30000], Total Loss: 32.9210, Recon VI Loss: 0.0008, Recon IR Loss: 0.0012, Mutual Loss: 0.0024, Perceptual Loss: 0.7204, Mutual I Input Loss: 0.1236
+Evaluating epoch 1000 results...
+Saving epoch 1000 models...
+Epoch [1004/2000], Step [30100], Total Loss: 45.9359, Recon VI Loss: 0.0012, Recon IR Loss: 0.0011, Mutual Loss: 0.0019, Perceptual Loss: 1.0457, Mutual I Input Loss: 0.0997
+Epoch [1007/2000], Step [30200], Total Loss: 32.6982, Recon VI Loss: 0.0011, Recon IR Loss: 0.0009, Mutual Loss: 0.0041, Perceptual Loss: 0.7109, Mutual I Input Loss: 0.1970
+Epoch [1010/2000], Step [30300], Total Loss: 38.0826, Recon VI Loss: 0.0005, Recon IR Loss: 0.0036, Mutual Loss: 0.0029, Perceptual Loss: 0.7326, Mutual I Input Loss: 0.1494
+Epoch [1014/2000], Step [30400], Total Loss: 42.3354, Recon VI Loss: 0.0008, Recon IR Loss: 0.0020, Mutual Loss: 0.0019, Perceptual Loss: 0.9191, Mutual I Input Loss: 0.1011
+Epoch [1017/2000], Step [30500], Total Loss: 37.1846, Recon VI Loss: 0.0008, Recon IR Loss: 0.0055, Mutual Loss: 0.0041, Perceptual Loss: 0.6011, Mutual I Input Loss: 0.1811
+Epoch [1020/2000], Step [30600], Total Loss: 31.1076, Recon VI Loss: 0.0007, Recon IR Loss: 0.0004, Mutual Loss: 0.0023, Perceptual Loss: 0.7208, Mutual I Input Loss: 0.1166
+Epoch [1024/2000], Step [30700], Total Loss: 43.0049, Recon VI Loss: 0.0013, Recon IR Loss: 0.0049, Mutual Loss: 0.0020, Perceptual Loss: 0.7844, Mutual I Input Loss: 0.0859
+Epoch [1027/2000], Step [30800], Total Loss: 33.2964, Recon VI Loss: 0.0008, Recon IR Loss: 0.0003, Mutual Loss: 0.0043, Perceptual Loss: 0.7624, Mutual I Input Loss: 0.1831
+Epoch [1030/2000], Step [30900], Total Loss: 28.9573, Recon VI Loss: 0.0007, Recon IR Loss: 0.0006, Mutual Loss: 0.0030, Perceptual Loss: 0.6514, Mutual I Input Loss: 0.1576
+Epoch [1034/2000], Step [31000], Total Loss: 48.6133, Recon VI Loss: 0.0007, Recon IR Loss: 0.0025, Mutual Loss: 0.0013, Perceptual Loss: 1.0580, Mutual I Input Loss: 0.0814
+Epoch [1037/2000], Step [31100], Total Loss: 32.5846, Recon VI Loss: 0.0010, Recon IR Loss: 0.0007, Mutual Loss: 0.0035, Perceptual Loss: 0.7255, Mutual I Input Loss: 0.1658
+Epoch [1040/2000], Step [31200], Total Loss: 29.1237, Recon VI Loss: 0.0003, Recon IR Loss: 0.0009, Mutual Loss: 0.0030, Perceptual Loss: 0.6504, Mutual I Input Loss: 0.1538
+Epoch [1044/2000], Step [31300], Total Loss: 39.4164, Recon VI Loss: 0.0009, Recon IR Loss: 0.0022, Mutual Loss: 0.0014, Perceptual Loss: 0.8411, Mutual I Input Loss: 0.0727
+Epoch [1047/2000], Step [31400], Total Loss: 28.7509, Recon VI Loss: 0.0008, Recon IR Loss: 0.0009, Mutual Loss: 0.0036, Perceptual Loss: 0.6215, Mutual I Input Loss: 0.1850
+Epoch [1050/2000], Step [31500], Total Loss: 25.4595, Recon VI Loss: 0.0006, Recon IR Loss: 0.0010, Mutual Loss: 0.0034, Perceptual Loss: 0.5445, Mutual I Input Loss: 0.1527
+Epoch [1054/2000], Step [31600], Total Loss: 39.8052, Recon VI Loss: 0.0007, Recon IR Loss: 0.0011, Mutual Loss: 0.0015, Perceptual Loss: 0.9060, Mutual I Input Loss: 0.0837
+Epoch [1057/2000], Step [31700], Total Loss: 32.1779, Recon VI Loss: 0.0010, Recon IR Loss: 0.0008, Mutual Loss: 0.0027, Perceptual Loss: 0.7199, Mutual I Input Loss: 0.1096
+Epoch [1060/2000], Step [31800], Total Loss: 47.8520, Recon VI Loss: 0.0006, Recon IR Loss: 0.0098, Mutual Loss: 0.0024, Perceptual Loss: 0.6731, Mutual I Input Loss: 0.1038
+Epoch [1064/2000], Step [31900], Total Loss: 35.2522, Recon VI Loss: 0.0014, Recon IR Loss: 0.0014, Mutual Loss: 0.0019, Perceptual Loss: 0.7591, Mutual I Input Loss: 0.1010
+Epoch [1067/2000], Step [32000], Total Loss: 42.6844, Recon VI Loss: 0.0005, Recon IR Loss: 0.0012, Mutual Loss: 0.0033, Perceptual Loss: 0.9659, Mutual I Input Loss: 0.1695
+Epoch [1070/2000], Step [32100], Total Loss: 29.0556, Recon VI Loss: 0.0009, Recon IR Loss: 0.0010, Mutual Loss: 0.0034, Perceptual Loss: 0.6236, Mutual I Input Loss: 0.1514
+Epoch [1074/2000], Step [32200], Total Loss: 36.4110, Recon VI Loss: 0.0013, Recon IR Loss: 0.0020, Mutual Loss: 0.0020, Perceptual Loss: 0.7601, Mutual I Input Loss: 0.0998
+Epoch [1077/2000], Step [32300], Total Loss: 31.0985, Recon VI Loss: 0.0006, Recon IR Loss: 0.0003, Mutual Loss: 0.0041, Perceptual Loss: 0.7123, Mutual I Input Loss: 0.1990
+Epoch [1080/2000], Step [32400], Total Loss: 32.0893, Recon VI Loss: 0.0004, Recon IR Loss: 0.0024, Mutual Loss: 0.0030, Perceptual Loss: 0.6449, Mutual I Input Loss: 0.1511
+Epoch [1084/2000], Step [32500], Total Loss: 57.4092, Recon VI Loss: 0.0011, Recon IR Loss: 0.0073, Mutual Loss: 0.0010, Perceptual Loss: 1.0281, Mutual I Input Loss: 0.0686
+Epoch [1087/2000], Step [32600], Total Loss: 35.6835, Recon VI Loss: 0.0005, Recon IR Loss: 0.0002, Mutual Loss: 0.0030, Perceptual Loss: 0.8432, Mutual I Input Loss: 0.1287
+Epoch [1090/2000], Step [32700], Total Loss: 34.3729, Recon VI Loss: 0.0006, Recon IR Loss: 0.0019, Mutual Loss: 0.0023, Perceptual Loss: 0.7281, Mutual I Input Loss: 0.1240
+Epoch [1094/2000], Step [32800], Total Loss: 45.0722, Recon VI Loss: 0.0008, Recon IR Loss: 0.0026, Mutual Loss: 0.0013, Perceptual Loss: 0.9645, Mutual I Input Loss: 0.0744
+Epoch [1097/2000], Step [32900], Total Loss: 41.5032, Recon VI Loss: 0.0013, Recon IR Loss: 0.0077, Mutual Loss: 0.0045, Perceptual Loss: 0.5838, Mutual I Input Loss: 0.2087
+Epoch [1100/2000], Step [33000], Total Loss: 33.4020, Recon VI Loss: 0.0004, Recon IR Loss: 0.0005, Mutual Loss: 0.0024, Perceptual Loss: 0.7789, Mutual I Input Loss: 0.1136
+Saving epoch 1100 models...
+Epoch [1104/2000], Step [33100], Total Loss: 40.9256, Recon VI Loss: 0.0006, Recon IR Loss: 0.0015, Mutual Loss: 0.0018, Perceptual Loss: 0.9139, Mutual I Input Loss: 0.0938
+Epoch [1107/2000], Step [33200], Total Loss: 34.7979, Recon VI Loss: 0.0007, Recon IR Loss: 0.0017, Mutual Loss: 0.0030, Perceptual Loss: 0.7381, Mutual I Input Loss: 0.1509
+Epoch [1110/2000], Step [33300], Total Loss: 29.6679, Recon VI Loss: 0.0003, Recon IR Loss: 0.0017, Mutual Loss: 0.0030, Perceptual Loss: 0.6262, Mutual I Input Loss: 0.1348
+Epoch [1114/2000], Step [33400], Total Loss: 39.7515, Recon VI Loss: 0.0010, Recon IR Loss: 0.0004, Mutual Loss: 0.0015, Perceptual Loss: 0.9334, Mutual I Input Loss: 0.0800
+Epoch [1117/2000], Step [33500], Total Loss: 31.4395, Recon VI Loss: 0.0004, Recon IR Loss: 0.0007, Mutual Loss: 0.0034, Perceptual Loss: 0.7072, Mutual I Input Loss: 0.1773
+Epoch [1120/2000], Step [33600], Total Loss: 28.7325, Recon VI Loss: 0.0004, Recon IR Loss: 0.0004, Mutual Loss: 0.0032, Perceptual Loss: 0.6623, Mutual I Input Loss: 0.1460
+Epoch [1124/2000], Step [33700], Total Loss: 36.4487, Recon VI Loss: 0.0009, Recon IR Loss: 0.0016, Mutual Loss: 0.0015, Perceptual Loss: 0.7959, Mutual I Input Loss: 0.0704
+Epoch [1127/2000], Step [33800], Total Loss: 42.1247, Recon VI Loss: 0.0005, Recon IR Loss: 0.0038, Mutual Loss: 0.0036, Perceptual Loss: 0.8197, Mutual I Input Loss: 0.1690
+Epoch [1130/2000], Step [33900], Total Loss: 30.2002, Recon VI Loss: 0.0007, Recon IR Loss: 0.0005, Mutual Loss: 0.0025, Perceptual Loss: 0.6886, Mutual I Input Loss: 0.1291
+Epoch [1134/2000], Step [34000], Total Loss: 45.0642, Recon VI Loss: 0.0008, Recon IR Loss: 0.0021, Mutual Loss: 0.0021, Perceptual Loss: 0.9803, Mutual I Input Loss: 0.1055
+Epoch [1137/2000], Step [34100], Total Loss: 37.0417, Recon VI Loss: 0.0011, Recon IR Loss: 0.0004, Mutual Loss: 0.0042, Perceptual Loss: 0.8457, Mutual I Input Loss: 0.1917
+Epoch [1140/2000], Step [34200], Total Loss: 27.0649, Recon VI Loss: 0.0007, Recon IR Loss: 0.0013, Mutual Loss: 0.0027, Perceptual Loss: 0.5695, Mutual I Input Loss: 0.1406
+Epoch [1144/2000], Step [34300], Total Loss: 43.3674, Recon VI Loss: 0.0009, Recon IR Loss: 0.0037, Mutual Loss: 0.0014, Perceptual Loss: 0.8646, Mutual I Input Loss: 0.0799
+Epoch [1147/2000], Step [34400], Total Loss: 39.7863, Recon VI Loss: 0.0003, Recon IR Loss: 0.0009, Mutual Loss: 0.0025, Perceptual Loss: 0.9178, Mutual I Input Loss: 0.1327
+Epoch [1150/2000], Step [34500], Total Loss: 27.4982, Recon VI Loss: 0.0005, Recon IR Loss: 0.0008, Mutual Loss: 0.0033, Perceptual Loss: 0.6036, Mutual I Input Loss: 0.1793
+Epoch [1154/2000], Step [34600], Total Loss: 46.7428, Recon VI Loss: 0.0008, Recon IR Loss: 0.0034, Mutual Loss: 0.0016, Perceptual Loss: 0.9596, Mutual I Input Loss: 0.1096
+Epoch [1157/2000], Step [34700], Total Loss: 34.1882, Recon VI Loss: 0.0008, Recon IR Loss: 0.0007, Mutual Loss: 0.0028, Perceptual Loss: 0.7804, Mutual I Input Loss: 0.1215
+Epoch [1160/2000], Step [34800], Total Loss: 31.7368, Recon VI Loss: 0.0005, Recon IR Loss: 0.0008, Mutual Loss: 0.0023, Perceptual Loss: 0.7216, Mutual I Input Loss: 0.1095
+Epoch [1164/2000], Step [34900], Total Loss: 42.9480, Recon VI Loss: 0.0010, Recon IR Loss: 0.0017, Mutual Loss: 0.0019, Perceptual Loss: 0.9434, Mutual I Input Loss: 0.1107
+Epoch [1167/2000], Step [35000], Total Loss: 33.0269, Recon VI Loss: 0.0006, Recon IR Loss: 0.0006, Mutual Loss: 0.0028, Perceptual Loss: 0.7583, Mutual I Input Loss: 0.1327
+Epoch [1170/2000], Step [35100], Total Loss: 31.8380, Recon VI Loss: 0.0007, Recon IR Loss: 0.0011, Mutual Loss: 0.0020, Perceptual Loss: 0.7037, Mutual I Input Loss: 0.1002
+Epoch [1174/2000], Step [35200], Total Loss: 47.7109, Recon VI Loss: 0.0013, Recon IR Loss: 0.0018, Mutual Loss: 0.0012, Perceptual Loss: 1.0574, Mutual I Input Loss: 0.0651
+Epoch [1177/2000], Step [35300], Total Loss: 32.6740, Recon VI Loss: 0.0008, Recon IR Loss: 0.0021, Mutual Loss: 0.0037, Perceptual Loss: 0.6625, Mutual I Input Loss: 0.1710
+Epoch [1180/2000], Step [35400], Total Loss: 27.7531, Recon VI Loss: 0.0005, Recon IR Loss: 0.0002, Mutual Loss: 0.0028, Perceptual Loss: 0.6433, Mutual I Input Loss: 0.1389
+Epoch [1184/2000], Step [35500], Total Loss: 45.3742, Recon VI Loss: 0.0008, Recon IR Loss: 0.0023, Mutual Loss: 0.0018, Perceptual Loss: 0.9853, Mutual I Input Loss: 0.0892
+Epoch [1187/2000], Step [35600], Total Loss: 33.0089, Recon VI Loss: 0.0006, Recon IR Loss: 0.0013, Mutual Loss: 0.0027, Perceptual Loss: 0.7227, Mutual I Input Loss: 0.1225
+Epoch [1190/2000], Step [35700], Total Loss: 32.9012, Recon VI Loss: 0.0004, Recon IR Loss: 0.0010, Mutual Loss: 0.0032, Perceptual Loss: 0.7339, Mutual I Input Loss: 0.1520
+Epoch [1194/2000], Step [35800], Total Loss: 41.0864, Recon VI Loss: 0.0009, Recon IR Loss: 0.0017, Mutual Loss: 0.0016, Perceptual Loss: 0.9055, Mutual I Input Loss: 0.0877
+Epoch [1197/2000], Step [35900], Total Loss: 35.0962, Recon VI Loss: 0.0011, Recon IR Loss: 0.0004, Mutual Loss: 0.0030, Perceptual Loss: 0.8020, Mutual I Input Loss: 0.1505
+Epoch [1200/2000], Step [36000], Total Loss: 29.4931, Recon VI Loss: 0.0005, Recon IR Loss: 0.0006, Mutual Loss: 0.0026, Perceptual Loss: 0.6758, Mutual I Input Loss: 0.1118
+Evaluating epoch 1200 results...
+Saving epoch 1200 models...
+Epoch [1204/2000], Step [36100], Total Loss: 40.0709, Recon VI Loss: 0.0009, Recon IR Loss: 0.0020, Mutual Loss: 0.0011, Perceptual Loss: 0.8700, Mutual I Input Loss: 0.0614
+Epoch [1207/2000], Step [36200], Total Loss: 29.5354, Recon VI Loss: 0.0007, Recon IR Loss: 0.0007, Mutual Loss: 0.0024, Perceptual Loss: 0.6635, Mutual I Input Loss: 0.1230
+Epoch [1210/2000], Step [36300], Total Loss: 26.1360, Recon VI Loss: 0.0004, Recon IR Loss: 0.0014, Mutual Loss: 0.0028, Perceptual Loss: 0.5540, Mutual I Input Loss: 0.1201
+Epoch [1214/2000], Step [36400], Total Loss: 44.0644, Recon VI Loss: 0.0009, Recon IR Loss: 0.0024, Mutual Loss: 0.0017, Perceptual Loss: 0.9419, Mutual I Input Loss: 0.0799
+Epoch [1217/2000], Step [36500], Total Loss: 35.4285, Recon VI Loss: 0.0006, Recon IR Loss: 0.0049, Mutual Loss: 0.0043, Perceptual Loss: 0.5879, Mutual I Input Loss: 0.1940
+Epoch [1220/2000], Step [36600], Total Loss: 26.1683, Recon VI Loss: 0.0006, Recon IR Loss: 0.0003, Mutual Loss: 0.0025, Perceptual Loss: 0.5994, Mutual I Input Loss: 0.1419
+Epoch [1224/2000], Step [36700], Total Loss: 39.4150, Recon VI Loss: 0.0011, Recon IR Loss: 0.0041, Mutual Loss: 0.0016, Perceptual Loss: 0.7364, Mutual I Input Loss: 0.0885
+Epoch [1227/2000], Step [36800], Total Loss: 26.8949, Recon VI Loss: 0.0023, Recon IR Loss: 0.0003, Mutual Loss: 0.0051, Perceptual Loss: 0.5591, Mutual I Input Loss: 0.2285
+Epoch [1230/2000], Step [36900], Total Loss: 32.5188, Recon VI Loss: 0.0004, Recon IR Loss: 0.0030, Mutual Loss: 0.0026, Perceptual Loss: 0.6285, Mutual I Input Loss: 0.1386
+Epoch [1234/2000], Step [37000], Total Loss: 38.4932, Recon VI Loss: 0.0009, Recon IR Loss: 0.0020, Mutual Loss: 0.0010, Perceptual Loss: 0.8289, Mutual I Input Loss: 0.0664
+Epoch [1237/2000], Step [37100], Total Loss: 28.5979, Recon VI Loss: 0.0006, Recon IR Loss: 0.0005, Mutual Loss: 0.0025, Perceptual Loss: 0.6554, Mutual I Input Loss: 0.1231
+Epoch [1240/2000], Step [37200], Total Loss: 24.4313, Recon VI Loss: 0.0009, Recon IR Loss: 0.0006, Mutual Loss: 0.0034, Perceptual Loss: 0.5309, Mutual I Input Loss: 0.1644
+Epoch [1244/2000], Step [37300], Total Loss: 42.9944, Recon VI Loss: 0.0014, Recon IR Loss: 0.0035, Mutual Loss: 0.0012, Perceptual Loss: 0.8509, Mutual I Input Loss: 0.0723
+Epoch [1247/2000], Step [37400], Total Loss: 31.2776, Recon VI Loss: 0.0025, Recon IR Loss: 0.0009, Mutual Loss: 0.0054, Perceptual Loss: 0.6285, Mutual I Input Loss: 0.2578
+Epoch [1250/2000], Step [37500], Total Loss: 31.9159, Recon VI Loss: 0.0005, Recon IR Loss: 0.0012, Mutual Loss: 0.0020, Perceptual Loss: 0.7085, Mutual I Input Loss: 0.1035
+Epoch [1254/2000], Step [37600], Total Loss: 44.7488, Recon VI Loss: 0.0010, Recon IR Loss: 0.0026, Mutual Loss: 0.0017, Perceptual Loss: 0.9440, Mutual I Input Loss: 0.0922
+Epoch [1257/2000], Step [37700], Total Loss: 25.8675, Recon VI Loss: 0.0008, Recon IR Loss: 0.0009, Mutual Loss: 0.0035, Perceptual Loss: 0.5537, Mutual I Input Loss: 0.1660
+Epoch [1260/2000], Step [37800], Total Loss: 25.4995, Recon VI Loss: 0.0010, Recon IR Loss: 0.0009, Mutual Loss: 0.0033, Perceptual Loss: 0.5449, Mutual I Input Loss: 0.1349
+Epoch [1264/2000], Step [37900], Total Loss: 40.3667, Recon VI Loss: 0.0010, Recon IR Loss: 0.0051, Mutual Loss: 0.0015, Perceptual Loss: 0.7161, Mutual I Input Loss: 0.0752
+Epoch [1267/2000], Step [38000], Total Loss: 30.6051, Recon VI Loss: 0.0005, Recon IR Loss: 0.0009, Mutual Loss: 0.0029, Perceptual Loss: 0.6842, Mutual I Input Loss: 0.1275
+Epoch [1270/2000], Step [38100], Total Loss: 32.6856, Recon VI Loss: 0.0006, Recon IR Loss: 0.0039, Mutual Loss: 0.0031, Perceptual Loss: 0.5800, Mutual I Input Loss: 0.1586
+Epoch [1274/2000], Step [38200], Total Loss: 43.8095, Recon VI Loss: 0.0007, Recon IR Loss: 0.0019, Mutual Loss: 0.0023, Perceptual Loss: 0.9617, Mutual I Input Loss: 0.1111
+Epoch [1277/2000], Step [38300], Total Loss: 31.2768, Recon VI Loss: 0.0006, Recon IR Loss: 0.0017, Mutual Loss: 0.0035, Perceptual Loss: 0.6547, Mutual I Input Loss: 0.1606
+Epoch [1280/2000], Step [38400], Total Loss: 29.9515, Recon VI Loss: 0.0004, Recon IR Loss: 0.0015, Mutual Loss: 0.0018, Perceptual Loss: 0.6497, Mutual I Input Loss: 0.0801
+Epoch [1284/2000], Step [38500], Total Loss: 43.9800, Recon VI Loss: 0.0008, Recon IR Loss: 0.0020, Mutual Loss: 0.0018, Perceptual Loss: 0.9652, Mutual I Input Loss: 0.0789
+Epoch [1287/2000], Step [38600], Total Loss: 33.6990, Recon VI Loss: 0.0004, Recon IR Loss: 0.0022, Mutual Loss: 0.0035, Perceptual Loss: 0.6938, Mutual I Input Loss: 0.1691
+Epoch [1290/2000], Step [38700], Total Loss: 31.6402, Recon VI Loss: 0.0011, Recon IR Loss: 0.0004, Mutual Loss: 0.0030, Perceptual Loss: 0.7153, Mutual I Input Loss: 0.1397
+Epoch [1294/2000], Step [38800], Total Loss: 44.8779, Recon VI Loss: 0.0013, Recon IR Loss: 0.0021, Mutual Loss: 0.0023, Perceptual Loss: 0.9644, Mutual I Input Loss: 0.1307
+Epoch [1297/2000], Step [38900], Total Loss: 35.0922, Recon VI Loss: 0.0004, Recon IR Loss: 0.0018, Mutual Loss: 0.0034, Perceptual Loss: 0.7541, Mutual I Input Loss: 0.1437
+Epoch [1300/2000], Step [39000], Total Loss: 28.6935, Recon VI Loss: 0.0007, Recon IR Loss: 0.0013, Mutual Loss: 0.0029, Perceptual Loss: 0.6089, Mutual I Input Loss: 0.1341
+Saving epoch 1300 models...
+Epoch [1304/2000], Step [39100], Total Loss: 32.1413, Recon VI Loss: 0.0007, Recon IR Loss: 0.0010, Mutual Loss: 0.0011, Perceptual Loss: 0.7279, Mutual I Input Loss: 0.0561
+Epoch [1307/2000], Step [39200], Total Loss: 38.0418, Recon VI Loss: 0.0006, Recon IR Loss: 0.0030, Mutual Loss: 0.0025, Perceptual Loss: 0.7633, Mutual I Input Loss: 0.1197
+Epoch [1310/2000], Step [39300], Total Loss: 25.1361, Recon VI Loss: 0.0020, Recon IR Loss: 0.0002, Mutual Loss: 0.0034, Perceptual Loss: 0.5372, Mutual I Input Loss: 0.1744
+Epoch [1314/2000], Step [39400], Total Loss: 40.7367, Recon VI Loss: 0.0013, Recon IR Loss: 0.0003, Mutual Loss: 0.0022, Perceptual Loss: 0.9509, Mutual I Input Loss: 0.1059
+Epoch [1317/2000], Step [39500], Total Loss: 33.0176, Recon VI Loss: 0.0021, Recon IR Loss: 0.0016, Mutual Loss: 0.0046, Perceptual Loss: 0.6543, Mutual I Input Loss: 0.2174
+Epoch [1320/2000], Step [39600], Total Loss: 27.2670, Recon VI Loss: 0.0007, Recon IR Loss: 0.0004, Mutual Loss: 0.0035, Perceptual Loss: 0.6172, Mutual I Input Loss: 0.1518
+Epoch [1324/2000], Step [39700], Total Loss: 45.4787, Recon VI Loss: 0.0008, Recon IR Loss: 0.0056, Mutual Loss: 0.0010, Perceptual Loss: 0.8234, Mutual I Input Loss: 0.0658
+Epoch [1327/2000], Step [39800], Total Loss: 24.7789, Recon VI Loss: 0.0006, Recon IR Loss: 0.0004, Mutual Loss: 0.0033, Perceptual Loss: 0.5568, Mutual I Input Loss: 0.1449
+Epoch [1330/2000], Step [39900], Total Loss: 26.7416, Recon VI Loss: 0.0006, Recon IR Loss: 0.0006, Mutual Loss: 0.0028, Perceptual Loss: 0.6017, Mutual I Input Loss: 0.1171
+Epoch [1334/2000], Step [40000], Total Loss: 37.9309, Recon VI Loss: 0.0007, Recon IR Loss: 0.0004, Mutual Loss: 0.0023, Perceptual Loss: 0.8908, Mutual I Input Loss: 0.1005
+Epoch [1337/2000], Step [40100], Total Loss: 28.2883, Recon VI Loss: 0.0007, Recon IR Loss: 0.0004, Mutual Loss: 0.0025, Perceptual Loss: 0.6505, Mutual I Input Loss: 0.1093
+Epoch [1340/2000], Step [40200], Total Loss: 29.7419, Recon VI Loss: 0.0003, Recon IR Loss: 0.0019, Mutual Loss: 0.0025, Perceptual Loss: 0.6165, Mutual I Input Loss: 0.1266
+Epoch [1344/2000], Step [40300], Total Loss: 39.3892, Recon VI Loss: 0.0008, Recon IR Loss: 0.0037, Mutual Loss: 0.0010, Perceptual Loss: 0.7682, Mutual I Input Loss: 0.0584
+Epoch [1347/2000], Step [40400], Total Loss: 28.9359, Recon VI Loss: 0.0008, Recon IR Loss: 0.0004, Mutual Loss: 0.0037, Perceptual Loss: 0.6519, Mutual I Input Loss: 0.1717
+Epoch [1350/2000], Step [40500], Total Loss: 24.4548, Recon VI Loss: 0.0004, Recon IR Loss: 0.0008, Mutual Loss: 0.0022, Perceptual Loss: 0.5462, Mutual I Input Loss: 0.1049
+Epoch [1354/2000], Step [40600], Total Loss: 38.3737, Recon VI Loss: 0.0009, Recon IR Loss: 0.0013, Mutual Loss: 0.0011, Perceptual Loss: 0.8622, Mutual I Input Loss: 0.0575
+Epoch [1357/2000], Step [40700], Total Loss: 38.3758, Recon VI Loss: 0.0009, Recon IR Loss: 0.0018, Mutual Loss: 0.0036, Perceptual Loss: 0.8127, Mutual I Input Loss: 0.2024
+Epoch [1360/2000], Step [40800], Total Loss: 28.4818, Recon VI Loss: 0.0008, Recon IR Loss: 0.0008, Mutual Loss: 0.0035, Perceptual Loss: 0.6241, Mutual I Input Loss: 0.1736
+Epoch [1364/2000], Step [40900], Total Loss: 48.3585, Recon VI Loss: 0.0009, Recon IR Loss: 0.0012, Mutual Loss: 0.0013, Perceptual Loss: 1.1160, Mutual I Input Loss: 0.0718
+Epoch [1367/2000], Step [41000], Total Loss: 41.6463, Recon VI Loss: 0.0005, Recon IR Loss: 0.0060, Mutual Loss: 0.0041, Perceptual Loss: 0.6937, Mutual I Input Loss: 0.1821
+Epoch [1370/2000], Step [41100], Total Loss: 25.2615, Recon VI Loss: 0.0005, Recon IR Loss: 0.0004, Mutual Loss: 0.0029, Perceptual Loss: 0.5784, Mutual I Input Loss: 0.1270
+Epoch [1374/2000], Step [41200], Total Loss: 40.8193, Recon VI Loss: 0.0008, Recon IR Loss: 0.0008, Mutual Loss: 0.0014, Perceptual Loss: 0.9443, Mutual I Input Loss: 0.0831
+Epoch [1377/2000], Step [41300], Total Loss: 28.8078, Recon VI Loss: 0.0006, Recon IR Loss: 0.0004, Mutual Loss: 0.0027, Perceptual Loss: 0.6629, Mutual I Input Loss: 0.1291
+Epoch [1380/2000], Step [41400], Total Loss: 26.3673, Recon VI Loss: 0.0005, Recon IR Loss: 0.0010, Mutual Loss: 0.0033, Perceptual Loss: 0.5733, Mutual I Input Loss: 0.1403
+Epoch [1384/2000], Step [41500], Total Loss: 37.0721, Recon VI Loss: 0.0010, Recon IR Loss: 0.0028, Mutual Loss: 0.0021, Perceptual Loss: 0.7454, Mutual I Input Loss: 0.1014
+Epoch [1387/2000], Step [41600], Total Loss: 37.0096, Recon VI Loss: 0.0003, Recon IR Loss: 0.0036, Mutual Loss: 0.0028, Perceptual Loss: 0.7115, Mutual I Input Loss: 0.1335
+Epoch [1390/2000], Step [41700], Total Loss: 32.3587, Recon VI Loss: 0.0005, Recon IR Loss: 0.0018, Mutual Loss: 0.0031, Perceptual Loss: 0.6772, Mutual I Input Loss: 0.1546
+Epoch [1394/2000], Step [41800], Total Loss: 41.5519, Recon VI Loss: 0.0009, Recon IR Loss: 0.0030, Mutual Loss: 0.0017, Perceptual Loss: 0.8499, Mutual I Input Loss: 0.0828
+Epoch [1397/2000], Step [41900], Total Loss: 31.7455, Recon VI Loss: 0.0004, Recon IR Loss: 0.0019, Mutual Loss: 0.0028, Perceptual Loss: 0.6648, Mutual I Input Loss: 0.1359
+Epoch [1400/2000], Step [42000], Total Loss: 26.8882, Recon VI Loss: 0.0007, Recon IR Loss: 0.0004, Mutual Loss: 0.0019, Perceptual Loss: 0.6145, Mutual I Input Loss: 0.0961
+Evaluating epoch 1400 results...
+Saving epoch 1400 models...
+Epoch [1404/2000], Step [42100], Total Loss: 39.9143, Recon VI Loss: 0.0015, Recon IR Loss: 0.0018, Mutual Loss: 0.0025, Perceptual Loss: 0.8495, Mutual I Input Loss: 0.1126
+Epoch [1407/2000], Step [42200], Total Loss: 27.1016, Recon VI Loss: 0.0008, Recon IR Loss: 0.0005, Mutual Loss: 0.0041, Perceptual Loss: 0.5975, Mutual I Input Loss: 0.1985
+Epoch [1410/2000], Step [42300], Total Loss: 27.0640, Recon VI Loss: 0.0008, Recon IR Loss: 0.0004, Mutual Loss: 0.0020, Perceptual Loss: 0.6181, Mutual I Input Loss: 0.1058
+Epoch [1414/2000], Step [42400], Total Loss: 55.6747, Recon VI Loss: 0.0013, Recon IR Loss: 0.0016, Mutual Loss: 0.0011, Perceptual Loss: 1.2697, Mutual I Input Loss: 0.0629
+Epoch [1417/2000], Step [42500], Total Loss: 38.4729, Recon VI Loss: 0.0005, Recon IR Loss: 0.0032, Mutual Loss: 0.0024, Perceptual Loss: 0.7689, Mutual I Input Loss: 0.1075
+Epoch [1420/2000], Step [42600], Total Loss: 27.5582, Recon VI Loss: 0.0015, Recon IR Loss: 0.0003, Mutual Loss: 0.0029, Perceptual Loss: 0.6116, Mutual I Input Loss: 0.1378
+Epoch [1424/2000], Step [42700], Total Loss: 47.6529, Recon VI Loss: 0.0012, Recon IR Loss: 0.0021, Mutual Loss: 0.0014, Perceptual Loss: 1.0415, Mutual I Input Loss: 0.0764
+Epoch [1427/2000], Step [42800], Total Loss: 28.4706, Recon VI Loss: 0.0015, Recon IR Loss: 0.0011, Mutual Loss: 0.0042, Perceptual Loss: 0.5878, Mutual I Input Loss: 0.1794
+Epoch [1430/2000], Step [42900], Total Loss: 26.0856, Recon VI Loss: 0.0004, Recon IR Loss: 0.0004, Mutual Loss: 0.0029, Perceptual Loss: 0.5937, Mutual I Input Loss: 0.1513
+Epoch [1434/2000], Step [43000], Total Loss: 36.0127, Recon VI Loss: 0.0009, Recon IR Loss: 0.0006, Mutual Loss: 0.0013, Perceptual Loss: 0.8318, Mutual I Input Loss: 0.0750
+Epoch [1437/2000], Step [43100], Total Loss: 29.6683, Recon VI Loss: 0.0006, Recon IR Loss: 0.0007, Mutual Loss: 0.0026, Perceptual Loss: 0.6714, Mutual I Input Loss: 0.1218
+Epoch [1440/2000], Step [43200], Total Loss: 24.4655, Recon VI Loss: 0.0012, Recon IR Loss: 0.0004, Mutual Loss: 0.0037, Perceptual Loss: 0.5245, Mutual I Input Loss: 0.1873
+Epoch [1444/2000], Step [43300], Total Loss: 39.2628, Recon VI Loss: 0.0009, Recon IR Loss: 0.0030, Mutual Loss: 0.0015, Perceptual Loss: 0.7941, Mutual I Input Loss: 0.0797
+Epoch [1447/2000], Step [43400], Total Loss: 28.1527, Recon VI Loss: 0.0008, Recon IR Loss: 0.0003, Mutual Loss: 0.0031, Perceptual Loss: 0.6444, Mutual I Input Loss: 0.1366
+Epoch [1450/2000], Step [43500], Total Loss: 31.9678, Recon VI Loss: 0.0008, Recon IR Loss: 0.0006, Mutual Loss: 0.0021, Perceptual Loss: 0.7310, Mutual I Input Loss: 0.1111
+Epoch [1454/2000], Step [43600], Total Loss: 41.3500, Recon VI Loss: 0.0011, Recon IR Loss: 0.0029, Mutual Loss: 0.0012, Perceptual Loss: 0.8490, Mutual I Input Loss: 0.0739
+Epoch [1457/2000], Step [43700], Total Loss: 31.3043, Recon VI Loss: 0.0013, Recon IR Loss: 0.0009, Mutual Loss: 0.0042, Perceptual Loss: 0.6721, Mutual I Input Loss: 0.1766
+Epoch [1460/2000], Step [43800], Total Loss: 25.7460, Recon VI Loss: 0.0005, Recon IR Loss: 0.0010, Mutual Loss: 0.0022, Perceptual Loss: 0.5635, Mutual I Input Loss: 0.1143
+Epoch [1464/2000], Step [43900], Total Loss: 46.5419, Recon VI Loss: 0.0019, Recon IR Loss: 0.0009, Mutual Loss: 0.0022, Perceptual Loss: 1.0505, Mutual I Input Loss: 0.1157
+Epoch [1467/2000], Step [44000], Total Loss: 31.3481, Recon VI Loss: 0.0003, Recon IR Loss: 0.0009, Mutual Loss: 0.0035, Perceptual Loss: 0.7040, Mutual I Input Loss: 0.1546
+Epoch [1470/2000], Step [44100], Total Loss: 24.0643, Recon VI Loss: 0.0012, Recon IR Loss: 0.0005, Mutual Loss: 0.0048, Perceptual Loss: 0.5087, Mutual I Input Loss: 0.2054
+Epoch [1474/2000], Step [44200], Total Loss: 37.6697, Recon VI Loss: 0.0007, Recon IR Loss: 0.0013, Mutual Loss: 0.0014, Perceptual Loss: 0.8464, Mutual I Input Loss: 0.0747
+Epoch [1477/2000], Step [44300], Total Loss: 33.2385, Recon VI Loss: 0.0010, Recon IR Loss: 0.0005, Mutual Loss: 0.0021, Perceptual Loss: 0.7639, Mutual I Input Loss: 0.1073
+Epoch [1480/2000], Step [44400], Total Loss: 29.5478, Recon VI Loss: 0.0004, Recon IR Loss: 0.0004, Mutual Loss: 0.0020, Perceptual Loss: 0.6878, Mutual I Input Loss: 0.0999
+Epoch [1484/2000], Step [44500], Total Loss: 40.2310, Recon VI Loss: 0.0013, Recon IR Loss: 0.0026, Mutual Loss: 0.0024, Perceptual Loss: 0.8190, Mutual I Input Loss: 0.1299
+Epoch [1487/2000], Step [44600], Total Loss: 30.5059, Recon VI Loss: 0.0007, Recon IR Loss: 0.0005, Mutual Loss: 0.0028, Perceptual Loss: 0.6945, Mutual I Input Loss: 0.1401
+Epoch [1490/2000], Step [44700], Total Loss: 35.8752, Recon VI Loss: 0.0006, Recon IR Loss: 0.0046, Mutual Loss: 0.0029, Perceptual Loss: 0.6261, Mutual I Input Loss: 0.1368
+Epoch [1494/2000], Step [44800], Total Loss: 34.6018, Recon VI Loss: 0.0014, Recon IR Loss: 0.0004, Mutual Loss: 0.0015, Perceptual Loss: 0.7950, Mutual I Input Loss: 0.0822
+Epoch [1497/2000], Step [44900], Total Loss: 38.5803, Recon VI Loss: 0.0008, Recon IR Loss: 0.0026, Mutual Loss: 0.0027, Perceptual Loss: 0.7926, Mutual I Input Loss: 0.1279
+Epoch [1500/2000], Step [45000], Total Loss: 36.2352, Recon VI Loss: 0.0007, Recon IR Loss: 0.0011, Mutual Loss: 0.0017, Perceptual Loss: 0.8145, Mutual I Input Loss: 0.0919
+Saving epoch 1500 models...
+Epoch [1504/2000], Step [45100], Total Loss: 45.3629, Recon VI Loss: 0.0011, Recon IR Loss: 0.0010, Mutual Loss: 0.0019, Perceptual Loss: 1.0355, Mutual I Input Loss: 0.1088
+Epoch [1507/2000], Step [45200], Total Loss: 26.6235, Recon VI Loss: 0.0013, Recon IR Loss: 0.0006, Mutual Loss: 0.0051, Perceptual Loss: 0.5600, Mutual I Input Loss: 0.2267
+Epoch [1510/2000], Step [45300], Total Loss: 26.8282, Recon VI Loss: 0.0013, Recon IR Loss: 0.0012, Mutual Loss: 0.0031, Perceptual Loss: 0.5558, Mutual I Input Loss: 0.1359
+Epoch [1514/2000], Step [45400], Total Loss: 35.5036, Recon VI Loss: 0.0019, Recon IR Loss: 0.0012, Mutual Loss: 0.0030, Perceptual Loss: 0.7597, Mutual I Input Loss: 0.1285
+Epoch [1517/2000], Step [45500], Total Loss: 28.6471, Recon VI Loss: 0.0010, Recon IR Loss: 0.0005, Mutual Loss: 0.0030, Perceptual Loss: 0.6381, Mutual I Input Loss: 0.1427
+Epoch [1520/2000], Step [45600], Total Loss: 27.5130, Recon VI Loss: 0.0017, Recon IR Loss: 0.0005, Mutual Loss: 0.0037, Perceptual Loss: 0.5856, Mutual I Input Loss: 0.1894
+Epoch [1524/2000], Step [45700], Total Loss: 44.2570, Recon VI Loss: 0.0006, Recon IR Loss: 0.0019, Mutual Loss: 0.0015, Perceptual Loss: 0.9804, Mutual I Input Loss: 0.0938
+Epoch [1527/2000], Step [45800], Total Loss: 36.7127, Recon VI Loss: 0.0004, Recon IR Loss: 0.0035, Mutual Loss: 0.0027, Perceptual Loss: 0.7118, Mutual I Input Loss: 0.1324
+Epoch [1530/2000], Step [45900], Total Loss: 25.8370, Recon VI Loss: 0.0003, Recon IR Loss: 0.0004, Mutual Loss: 0.0020, Perceptual Loss: 0.5987, Mutual I Input Loss: 0.0976
+Epoch [1534/2000], Step [46000], Total Loss: 33.1043, Recon VI Loss: 0.0009, Recon IR Loss: 0.0017, Mutual Loss: 0.0012, Perceptual Loss: 0.7094, Mutual I Input Loss: 0.0550
+Epoch [1537/2000], Step [46100], Total Loss: 28.4910, Recon VI Loss: 0.0004, Recon IR Loss: 0.0005, Mutual Loss: 0.0030, Perceptual Loss: 0.6516, Mutual I Input Loss: 0.1504
+Epoch [1540/2000], Step [46200], Total Loss: 37.2039, Recon VI Loss: 0.0006, Recon IR Loss: 0.0030, Mutual Loss: 0.0023, Perceptual Loss: 0.7440, Mutual I Input Loss: 0.1109
+Epoch [1544/2000], Step [46300], Total Loss: 37.3802, Recon VI Loss: 0.0008, Recon IR Loss: 0.0018, Mutual Loss: 0.0021, Perceptual Loss: 0.8079, Mutual I Input Loss: 0.1060
+Epoch [1547/2000], Step [46400], Total Loss: 28.3417, Recon VI Loss: 0.0006, Recon IR Loss: 0.0005, Mutual Loss: 0.0029, Perceptual Loss: 0.6470, Mutual I Input Loss: 0.1365
+Epoch [1550/2000], Step [46500], Total Loss: 23.2643, Recon VI Loss: 0.0006, Recon IR Loss: 0.0002, Mutual Loss: 0.0034, Perceptual Loss: 0.5289, Mutual I Input Loss: 0.1462
+Epoch [1554/2000], Step [46600], Total Loss: 46.3153, Recon VI Loss: 0.0015, Recon IR Loss: 0.0040, Mutual Loss: 0.0010, Perceptual Loss: 0.9092, Mutual I Input Loss: 0.0663
+Epoch [1557/2000], Step [46700], Total Loss: 25.1300, Recon VI Loss: 0.0009, Recon IR Loss: 0.0006, Mutual Loss: 0.0041, Perceptual Loss: 0.5450, Mutual I Input Loss: 0.1673
+Epoch [1560/2000], Step [46800], Total Loss: 27.7674, Recon VI Loss: 0.0004, Recon IR Loss: 0.0014, Mutual Loss: 0.0029, Perceptual Loss: 0.5931, Mutual I Input Loss: 0.1278
+Epoch [1564/2000], Step [46900], Total Loss: 39.2892, Recon VI Loss: 0.0009, Recon IR Loss: 0.0006, Mutual Loss: 0.0012, Perceptual Loss: 0.9202, Mutual I Input Loss: 0.0599
+Epoch [1567/2000], Step [47000], Total Loss: 29.0236, Recon VI Loss: 0.0008, Recon IR Loss: 0.0005, Mutual Loss: 0.0020, Perceptual Loss: 0.6633, Mutual I Input Loss: 0.1039
+Epoch [1570/2000], Step [47100], Total Loss: 28.7234, Recon VI Loss: 0.0006, Recon IR Loss: 0.0004, Mutual Loss: 0.0032, Perceptual Loss: 0.6562, Mutual I Input Loss: 0.1501
+Epoch [1574/2000], Step [47200], Total Loss: 41.4650, Recon VI Loss: 0.0008, Recon IR Loss: 0.0007, Mutual Loss: 0.0016, Perceptual Loss: 0.9658, Mutual I Input Loss: 0.0787
+Epoch [1577/2000], Step [47300], Total Loss: 34.6635, Recon VI Loss: 0.0007, Recon IR Loss: 0.0040, Mutual Loss: 0.0028, Perceptual Loss: 0.6215, Mutual I Input Loss: 0.1370
+Epoch [1580/2000], Step [47400], Total Loss: 28.4657, Recon VI Loss: 0.0008, Recon IR Loss: 0.0016, Mutual Loss: 0.0028, Perceptual Loss: 0.5900, Mutual I Input Loss: 0.1172
+Epoch [1584/2000], Step [47500], Total Loss: 33.2937, Recon VI Loss: 0.0008, Recon IR Loss: 0.0016, Mutual Loss: 0.0017, Perceptual Loss: 0.7189, Mutual I Input Loss: 0.0836
+Epoch [1587/2000], Step [47600], Total Loss: 31.7364, Recon VI Loss: 0.0004, Recon IR Loss: 0.0018, Mutual Loss: 0.0024, Perceptual Loss: 0.6740, Mutual I Input Loss: 0.1112
+Epoch [1590/2000], Step [47700], Total Loss: 24.5556, Recon VI Loss: 0.0004, Recon IR Loss: 0.0004, Mutual Loss: 0.0027, Perceptual Loss: 0.5646, Mutual I Input Loss: 0.1165
+Epoch [1594/2000], Step [47800], Total Loss: 39.1483, Recon VI Loss: 0.0006, Recon IR Loss: 0.0009, Mutual Loss: 0.0010, Perceptual Loss: 0.9075, Mutual I Input Loss: 0.0623
+Epoch [1597/2000], Step [47900], Total Loss: 28.9587, Recon VI Loss: 0.0004, Recon IR Loss: 0.0008, Mutual Loss: 0.0032, Perceptual Loss: 0.6454, Mutual I Input Loss: 0.1574
+Epoch [1600/2000], Step [48000], Total Loss: 27.0579, Recon VI Loss: 0.0004, Recon IR Loss: 0.0007, Mutual Loss: 0.0029, Perceptual Loss: 0.6064, Mutual I Input Loss: 0.1339
+Evaluating epoch 1600 results...
+Saving epoch 1600 models...
+Epoch [1604/2000], Step [48100], Total Loss: 52.6470, Recon VI Loss: 0.0009, Recon IR Loss: 0.0027, Mutual Loss: 0.0014, Perceptual Loss: 1.1449, Mutual I Input Loss: 0.0774
+Epoch [1607/2000], Step [48200], Total Loss: 30.0720, Recon VI Loss: 0.0007, Recon IR Loss: 0.0007, Mutual Loss: 0.0031, Perceptual Loss: 0.6725, Mutual I Input Loss: 0.1366
+Epoch [1610/2000], Step [48300], Total Loss: 34.0874, Recon VI Loss: 0.0007, Recon IR Loss: 0.0005, Mutual Loss: 0.0028, Perceptual Loss: 0.7837, Mutual I Input Loss: 0.1515
+Epoch [1614/2000], Step [48400], Total Loss: 32.9754, Recon VI Loss: 0.0011, Recon IR Loss: 0.0011, Mutual Loss: 0.0019, Perceptual Loss: 0.7263, Mutual I Input Loss: 0.0945
+Epoch [1617/2000], Step [48500], Total Loss: 32.7871, Recon VI Loss: 0.0012, Recon IR Loss: 0.0047, Mutual Loss: 0.0036, Perceptual Loss: 0.5296, Mutual I Input Loss: 0.1493
+Epoch [1620/2000], Step [48600], Total Loss: 29.3900, Recon VI Loss: 0.0008, Recon IR Loss: 0.0005, Mutual Loss: 0.0033, Perceptual Loss: 0.6622, Mutual I Input Loss: 0.1530
+Epoch [1624/2000], Step [48700], Total Loss: 40.0916, Recon VI Loss: 0.0008, Recon IR Loss: 0.0020, Mutual Loss: 0.0011, Perceptual Loss: 0.8690, Mutual I Input Loss: 0.0597
+Epoch [1627/2000], Step [48800], Total Loss: 30.6672, Recon VI Loss: 0.0005, Recon IR Loss: 0.0006, Mutual Loss: 0.0027, Perceptual Loss: 0.7014, Mutual I Input Loss: 0.1249
+Epoch [1630/2000], Step [48900], Total Loss: 30.7277, Recon VI Loss: 0.0004, Recon IR Loss: 0.0015, Mutual Loss: 0.0024, Perceptual Loss: 0.6644, Mutual I Input Loss: 0.1011
+Epoch [1634/2000], Step [49000], Total Loss: 37.7879, Recon VI Loss: 0.0009, Recon IR Loss: 0.0023, Mutual Loss: 0.0017, Perceptual Loss: 0.7947, Mutual I Input Loss: 0.0817
+Epoch [1637/2000], Step [49100], Total Loss: 30.8022, Recon VI Loss: 0.0007, Recon IR Loss: 0.0012, Mutual Loss: 0.0033, Perceptual Loss: 0.6622, Mutual I Input Loss: 0.1528
+Epoch [1640/2000], Step [49200], Total Loss: 26.9150, Recon VI Loss: 0.0006, Recon IR Loss: 0.0011, Mutual Loss: 0.0025, Perceptual Loss: 0.5822, Mutual I Input Loss: 0.1151
+Epoch [1644/2000], Step [49300], Total Loss: 39.4218, Recon VI Loss: 0.0009, Recon IR Loss: 0.0026, Mutual Loss: 0.0014, Perceptual Loss: 0.8196, Mutual I Input Loss: 0.0708
+Epoch [1647/2000], Step [49400], Total Loss: 27.9510, Recon VI Loss: 0.0008, Recon IR Loss: 0.0026, Mutual Loss: 0.0042, Perceptual Loss: 0.5203, Mutual I Input Loss: 0.1733
+Epoch [1650/2000], Step [49500], Total Loss: 25.5740, Recon VI Loss: 0.0003, Recon IR Loss: 0.0002, Mutual Loss: 0.0021, Perceptual Loss: 0.6063, Mutual I Input Loss: 0.0951
+Epoch [1654/2000], Step [49600], Total Loss: 41.5668, Recon VI Loss: 0.0009, Recon IR Loss: 0.0015, Mutual Loss: 0.0016, Perceptual Loss: 0.9285, Mutual I Input Loss: 0.0799
+Epoch [1657/2000], Step [49700], Total Loss: 31.0390, Recon VI Loss: 0.0006, Recon IR Loss: 0.0005, Mutual Loss: 0.0023, Perceptual Loss: 0.7143, Mutual I Input Loss: 0.1261
+Epoch [1660/2000], Step [49800], Total Loss: 27.3632, Recon VI Loss: 0.0010, Recon IR Loss: 0.0009, Mutual Loss: 0.0024, Perceptual Loss: 0.5929, Mutual I Input Loss: 0.1115
+Epoch [1664/2000], Step [49900], Total Loss: 30.8934, Recon VI Loss: 0.0010, Recon IR Loss: 0.0009, Mutual Loss: 0.0021, Perceptual Loss: 0.6852, Mutual I Input Loss: 0.0979
+Epoch [1667/2000], Step [50000], Total Loss: 35.8486, Recon VI Loss: 0.0010, Recon IR Loss: 0.0031, Mutual Loss: 0.0036, Perceptual Loss: 0.6830, Mutual I Input Loss: 0.1760
+Epoch [1670/2000], Step [50100], Total Loss: 29.3038, Recon VI Loss: 0.0005, Recon IR Loss: 0.0004, Mutual Loss: 0.0030, Perceptual Loss: 0.6739, Mutual I Input Loss: 0.1396
+Epoch [1674/2000], Step [50200], Total Loss: 36.3992, Recon VI Loss: 0.0011, Recon IR Loss: 0.0009, Mutual Loss: 0.0012, Perceptual Loss: 0.8261, Mutual I Input Loss: 0.0644
+Epoch [1677/2000], Step [50300], Total Loss: 31.0379, Recon VI Loss: 0.0005, Recon IR Loss: 0.0008, Mutual Loss: 0.0023, Perceptual Loss: 0.7010, Mutual I Input Loss: 0.1074
+Epoch [1680/2000], Step [50400], Total Loss: 25.3169, Recon VI Loss: 0.0009, Recon IR Loss: 0.0005, Mutual Loss: 0.0027, Perceptual Loss: 0.5626, Mutual I Input Loss: 0.1234
+Epoch [1684/2000], Step [50500], Total Loss: 39.6648, Recon VI Loss: 0.0007, Recon IR Loss: 0.0027, Mutual Loss: 0.0013, Perceptual Loss: 0.8261, Mutual I Input Loss: 0.0694
+Epoch [1687/2000], Step [50600], Total Loss: 25.5041, Recon VI Loss: 0.0004, Recon IR Loss: 0.0006, Mutual Loss: 0.0026, Perceptual Loss: 0.5739, Mutual I Input Loss: 0.1263
+Epoch [1690/2000], Step [50700], Total Loss: 30.6118, Recon VI Loss: 0.0004, Recon IR Loss: 0.0013, Mutual Loss: 0.0031, Perceptual Loss: 0.6673, Mutual I Input Loss: 0.1355
+Epoch [1694/2000], Step [50800], Total Loss: 33.4502, Recon VI Loss: 0.0007, Recon IR Loss: 0.0005, Mutual Loss: 0.0016, Perceptual Loss: 0.7817, Mutual I Input Loss: 0.0693
+Epoch [1697/2000], Step [50900], Total Loss: 28.6985, Recon VI Loss: 0.0016, Recon IR Loss: 0.0010, Mutual Loss: 0.0045, Perceptual Loss: 0.5870, Mutual I Input Loss: 0.2133
+Epoch [1700/2000], Step [51000], Total Loss: 23.0478, Recon VI Loss: 0.0004, Recon IR Loss: 0.0002, Mutual Loss: 0.0032, Perceptual Loss: 0.5258, Mutual I Input Loss: 0.1537
+Saving epoch 1700 models...
+Epoch [1704/2000], Step [51100], Total Loss: 36.7078, Recon VI Loss: 0.0013, Recon IR Loss: 0.0015, Mutual Loss: 0.0016, Perceptual Loss: 0.7934, Mutual I Input Loss: 0.0930
+Epoch [1707/2000], Step [51200], Total Loss: 37.1569, Recon VI Loss: 0.0016, Recon IR Loss: 0.0058, Mutual Loss: 0.0030, Perceptual Loss: 0.5754, Mutual I Input Loss: 0.1355
+Epoch [1710/2000], Step [51300], Total Loss: 34.9416, Recon VI Loss: 0.0004, Recon IR Loss: 0.0033, Mutual Loss: 0.0021, Perceptual Loss: 0.6798, Mutual I Input Loss: 0.1095
+Epoch [1714/2000], Step [51400], Total Loss: 34.0110, Recon VI Loss: 0.0009, Recon IR Loss: 0.0025, Mutual Loss: 0.0011, Perceptual Loss: 0.6906, Mutual I Input Loss: 0.0573
+Epoch [1717/2000], Step [51500], Total Loss: 28.0622, Recon VI Loss: 0.0019, Recon IR Loss: 0.0005, Mutual Loss: 0.0052, Perceptual Loss: 0.5912, Mutual I Input Loss: 0.2100
+Epoch [1720/2000], Step [51600], Total Loss: 27.1538, Recon VI Loss: 0.0003, Recon IR Loss: 0.0012, Mutual Loss: 0.0032, Perceptual Loss: 0.5884, Mutual I Input Loss: 0.1329
+Epoch [1724/2000], Step [51700], Total Loss: 38.4258, Recon VI Loss: 0.0009, Recon IR Loss: 0.0009, Mutual Loss: 0.0010, Perceptual Loss: 0.8811, Mutual I Input Loss: 0.0578
+Epoch [1727/2000], Step [51800], Total Loss: 28.4735, Recon VI Loss: 0.0011, Recon IR Loss: 0.0004, Mutual Loss: 0.0030, Perceptual Loss: 0.6393, Mutual I Input Loss: 0.1285
+Epoch [1730/2000], Step [51900], Total Loss: 29.0560, Recon VI Loss: 0.0005, Recon IR Loss: 0.0006, Mutual Loss: 0.0025, Perceptual Loss: 0.6623, Mutual I Input Loss: 0.1226
+Epoch [1734/2000], Step [52000], Total Loss: 39.2834, Recon VI Loss: 0.0012, Recon IR Loss: 0.0011, Mutual Loss: 0.0015, Perceptual Loss: 0.8851, Mutual I Input Loss: 0.0724
+Epoch [1737/2000], Step [52100], Total Loss: 33.4659, Recon VI Loss: 0.0009, Recon IR Loss: 0.0032, Mutual Loss: 0.0039, Perceptual Loss: 0.6210, Mutual I Input Loss: 0.1838
+Epoch [1740/2000], Step [52200], Total Loss: 27.4453, Recon VI Loss: 0.0003, Recon IR Loss: 0.0002, Mutual Loss: 0.0026, Perceptual Loss: 0.6450, Mutual I Input Loss: 0.1166
+Epoch [1744/2000], Step [52300], Total Loss: 36.8374, Recon VI Loss: 0.0008, Recon IR Loss: 0.0007, Mutual Loss: 0.0014, Perceptual Loss: 0.8530, Mutual I Input Loss: 0.0700
+Epoch [1747/2000], Step [52400], Total Loss: 27.7145, Recon VI Loss: 0.0015, Recon IR Loss: 0.0004, Mutual Loss: 0.0041, Perceptual Loss: 0.6009, Mutual I Input Loss: 0.2080
+Epoch [1750/2000], Step [52500], Total Loss: 28.0147, Recon VI Loss: 0.0005, Recon IR Loss: 0.0002, Mutual Loss: 0.0025, Perceptual Loss: 0.6544, Mutual I Input Loss: 0.1158
+Epoch [1754/2000], Step [52600], Total Loss: 33.3331, Recon VI Loss: 0.0007, Recon IR Loss: 0.0021, Mutual Loss: 0.0018, Perceptual Loss: 0.6981, Mutual I Input Loss: 0.0745
+Epoch [1757/2000], Step [52700], Total Loss: 29.8709, Recon VI Loss: 0.0005, Recon IR Loss: 0.0015, Mutual Loss: 0.0029, Perceptual Loss: 0.6282, Mutual I Input Loss: 0.1595
+Epoch [1760/2000], Step [52800], Total Loss: 30.1056, Recon VI Loss: 0.0010, Recon IR Loss: 0.0007, Mutual Loss: 0.0024, Perceptual Loss: 0.6714, Mutual I Input Loss: 0.1067
+Epoch [1764/2000], Step [52900], Total Loss: 39.8203, Recon VI Loss: 0.0007, Recon IR Loss: 0.0006, Mutual Loss: 0.0013, Perceptual Loss: 0.9334, Mutual I Input Loss: 0.0624
+Epoch [1767/2000], Step [53000], Total Loss: 32.2121, Recon VI Loss: 0.0005, Recon IR Loss: 0.0023, Mutual Loss: 0.0023, Perceptual Loss: 0.6589, Mutual I Input Loss: 0.1078
+Epoch [1770/2000], Step [53100], Total Loss: 23.3771, Recon VI Loss: 0.0016, Recon IR Loss: 0.0004, Mutual Loss: 0.0024, Perceptual Loss: 0.5040, Mutual I Input Loss: 0.1101
+Epoch [1774/2000], Step [53200], Total Loss: 32.1793, Recon VI Loss: 0.0008, Recon IR Loss: 0.0004, Mutual Loss: 0.0015, Perceptual Loss: 0.7527, Mutual I Input Loss: 0.0762
+Epoch [1777/2000], Step [53300], Total Loss: 30.6046, Recon VI Loss: 0.0010, Recon IR Loss: 0.0014, Mutual Loss: 0.0032, Perceptual Loss: 0.6418, Mutual I Input Loss: 0.1589
+Epoch [1780/2000], Step [53400], Total Loss: 25.2636, Recon VI Loss: 0.0006, Recon IR Loss: 0.0003, Mutual Loss: 0.0028, Perceptual Loss: 0.5779, Mutual I Input Loss: 0.1252
+Epoch [1784/2000], Step [53500], Total Loss: 42.3815, Recon VI Loss: 0.0011, Recon IR Loss: 0.0021, Mutual Loss: 0.0012, Perceptual Loss: 0.9151, Mutual I Input Loss: 0.0633
+Epoch [1787/2000], Step [53600], Total Loss: 32.0275, Recon VI Loss: 0.0004, Recon IR Loss: 0.0018, Mutual Loss: 0.0029, Perceptual Loss: 0.6756, Mutual I Input Loss: 0.1388
+Epoch [1790/2000], Step [53700], Total Loss: 18.9419, Recon VI Loss: 0.0011, Recon IR Loss: 0.0004, Mutual Loss: 0.0035, Perceptual Loss: 0.3994, Mutual I Input Loss: 0.1451
+Epoch [1794/2000], Step [53800], Total Loss: 36.2178, Recon VI Loss: 0.0015, Recon IR Loss: 0.0017, Mutual Loss: 0.0023, Perceptual Loss: 0.7636, Mutual I Input Loss: 0.1028
+Epoch [1797/2000], Step [53900], Total Loss: 25.8154, Recon VI Loss: 0.0008, Recon IR Loss: 0.0012, Mutual Loss: 0.0026, Perceptual Loss: 0.5436, Mutual I Input Loss: 0.1247
+Epoch [1800/2000], Step [54000], Total Loss: 27.3832, Recon VI Loss: 0.0004, Recon IR Loss: 0.0005, Mutual Loss: 0.0022, Perceptual Loss: 0.6295, Mutual I Input Loss: 0.1111
+Evaluating epoch 1800 results...
+Saving epoch 1800 models...
+Epoch [1804/2000], Step [54100], Total Loss: 36.8304, Recon VI Loss: 0.0011, Recon IR Loss: 0.0013, Mutual Loss: 0.0022, Perceptual Loss: 0.8111, Mutual I Input Loss: 0.1059
+Epoch [1807/2000], Step [54200], Total Loss: 27.9849, Recon VI Loss: 0.0007, Recon IR Loss: 0.0011, Mutual Loss: 0.0033, Perceptual Loss: 0.5975, Mutual I Input Loss: 0.1740
+Epoch [1810/2000], Step [54300], Total Loss: 26.7195, Recon VI Loss: 0.0004, Recon IR Loss: 0.0003, Mutual Loss: 0.0029, Perceptual Loss: 0.6200, Mutual I Input Loss: 0.1332
+Epoch [1814/2000], Step [54400], Total Loss: 35.8090, Recon VI Loss: 0.0010, Recon IR Loss: 0.0017, Mutual Loss: 0.0013, Perceptual Loss: 0.7732, Mutual I Input Loss: 0.0672
+Epoch [1817/2000], Step [54500], Total Loss: 33.4953, Recon VI Loss: 0.0023, Recon IR Loss: 0.0025, Mutual Loss: 0.0039, Perceptual Loss: 0.6216, Mutual I Input Loss: 0.1972
+Epoch [1820/2000], Step [54600], Total Loss: 28.4060, Recon VI Loss: 0.0004, Recon IR Loss: 0.0005, Mutual Loss: 0.0026, Perceptual Loss: 0.6553, Mutual I Input Loss: 0.1156
+Epoch [1824/2000], Step [54700], Total Loss: 49.8411, Recon VI Loss: 0.0007, Recon IR Loss: 0.0072, Mutual Loss: 0.0018, Perceptual Loss: 0.8536, Mutual I Input Loss: 0.0915
+Epoch [1827/2000], Step [54800], Total Loss: 28.7568, Recon VI Loss: 0.0014, Recon IR Loss: 0.0003, Mutual Loss: 0.0043, Perceptual Loss: 0.6291, Mutual I Input Loss: 0.2322
+Epoch [1830/2000], Step [54900], Total Loss: 24.2086, Recon VI Loss: 0.0006, Recon IR Loss: 0.0008, Mutual Loss: 0.0032, Perceptual Loss: 0.5279, Mutual I Input Loss: 0.1399
+Epoch [1834/2000], Step [55000], Total Loss: 38.7875, Recon VI Loss: 0.0009, Recon IR Loss: 0.0023, Mutual Loss: 0.0021, Perceptual Loss: 0.8171, Mutual I Input Loss: 0.0897
+Epoch [1837/2000], Step [55100], Total Loss: 23.8223, Recon VI Loss: 0.0005, Recon IR Loss: 0.0006, Mutual Loss: 0.0034, Perceptual Loss: 0.5260, Mutual I Input Loss: 0.1529
+Epoch [1840/2000], Step [55200], Total Loss: 25.4675, Recon VI Loss: 0.0005, Recon IR Loss: 0.0005, Mutual Loss: 0.0021, Perceptual Loss: 0.5808, Mutual I Input Loss: 0.1008
+Epoch [1844/2000], Step [55300], Total Loss: 40.9526, Recon VI Loss: 0.0008, Recon IR Loss: 0.0035, Mutual Loss: 0.0016, Perceptual Loss: 0.8120, Mutual I Input Loss: 0.0752
+Epoch [1847/2000], Step [55400], Total Loss: 29.7749, Recon VI Loss: 0.0006, Recon IR Loss: 0.0004, Mutual Loss: 0.0033, Perceptual Loss: 0.6840, Mutual I Input Loss: 0.1417
+Epoch [1850/2000], Step [55500], Total Loss: 26.4865, Recon VI Loss: 0.0005, Recon IR Loss: 0.0002, Mutual Loss: 0.0021, Perceptual Loss: 0.6230, Mutual I Input Loss: 0.0929
+Epoch [1854/2000], Step [55600], Total Loss: 41.4445, Recon VI Loss: 0.0015, Recon IR Loss: 0.0013, Mutual Loss: 0.0014, Perceptual Loss: 0.9186, Mutual I Input Loss: 0.0750
+Epoch [1857/2000], Step [55700], Total Loss: 26.3317, Recon VI Loss: 0.0015, Recon IR Loss: 0.0008, Mutual Loss: 0.0041, Perceptual Loss: 0.5477, Mutual I Input Loss: 0.1883
+Epoch [1860/2000], Step [55800], Total Loss: 35.4294, Recon VI Loss: 0.0020, Recon IR Loss: 0.0003, Mutual Loss: 0.0014, Perceptual Loss: 0.8056, Mutual I Input Loss: 0.0874
+Epoch [1864/2000], Step [55900], Total Loss: 36.0757, Recon VI Loss: 0.0007, Recon IR Loss: 0.0004, Mutual Loss: 0.0016, Perceptual Loss: 0.8513, Mutual I Input Loss: 0.0653
+Epoch [1867/2000], Step [56000], Total Loss: 31.9769, Recon VI Loss: 0.0012, Recon IR Loss: 0.0012, Mutual Loss: 0.0038, Perceptual Loss: 0.6791, Mutual I Input Loss: 0.1754
+Epoch [1870/2000], Step [56100], Total Loss: 23.7062, Recon VI Loss: 0.0007, Recon IR Loss: 0.0002, Mutual Loss: 0.0036, Perceptual Loss: 0.5363, Mutual I Input Loss: 0.1698
+Epoch [1874/2000], Step [56200], Total Loss: 33.7812, Recon VI Loss: 0.0007, Recon IR Loss: 0.0015, Mutual Loss: 0.0011, Perceptual Loss: 0.7403, Mutual I Input Loss: 0.0631
+Epoch [1877/2000], Step [56300], Total Loss: 26.4689, Recon VI Loss: 0.0009, Recon IR Loss: 0.0004, Mutual Loss: 0.0050, Perceptual Loss: 0.5760, Mutual I Input Loss: 0.2281
+Epoch [1880/2000], Step [56400], Total Loss: 22.7631, Recon VI Loss: 0.0005, Recon IR Loss: 0.0003, Mutual Loss: 0.0027, Perceptual Loss: 0.5216, Mutual I Input Loss: 0.1159
+Epoch [1884/2000], Step [56500], Total Loss: 39.3275, Recon VI Loss: 0.0007, Recon IR Loss: 0.0015, Mutual Loss: 0.0015, Perceptual Loss: 0.8735, Mutual I Input Loss: 0.0795
+Epoch [1887/2000], Step [56600], Total Loss: 29.4398, Recon VI Loss: 0.0005, Recon IR Loss: 0.0014, Mutual Loss: 0.0026, Perceptual Loss: 0.6351, Mutual I Input Loss: 0.1052
+Epoch [1890/2000], Step [56700], Total Loss: 31.6960, Recon VI Loss: 0.0005, Recon IR Loss: 0.0004, Mutual Loss: 0.0030, Perceptual Loss: 0.7325, Mutual I Input Loss: 0.1391
+Epoch [1894/2000], Step [56800], Total Loss: 34.9080, Recon VI Loss: 0.0006, Recon IR Loss: 0.0012, Mutual Loss: 0.0015, Perceptual Loss: 0.7843, Mutual I Input Loss: 0.0803
+Epoch [1897/2000], Step [56900], Total Loss: 31.0414, Recon VI Loss: 0.0003, Recon IR Loss: 0.0005, Mutual Loss: 0.0023, Perceptual Loss: 0.7263, Mutual I Input Loss: 0.1134
+Epoch [1900/2000], Step [57000], Total Loss: 27.8919, Recon VI Loss: 0.0004, Recon IR Loss: 0.0002, Mutual Loss: 0.0023, Perceptual Loss: 0.6560, Mutual I Input Loss: 0.1100
+Saving epoch 1900 models...
+Epoch [1904/2000], Step [57100], Total Loss: 41.8094, Recon VI Loss: 0.0009, Recon IR Loss: 0.0010, Mutual Loss: 0.0015, Perceptual Loss: 0.9576, Mutual I Input Loss: 0.0811
+Epoch [1907/2000], Step [57200], Total Loss: 28.5814, Recon VI Loss: 0.0007, Recon IR Loss: 0.0013, Mutual Loss: 0.0035, Perceptual Loss: 0.6034, Mutual I Input Loss: 0.1629
+Epoch [1910/2000], Step [57300], Total Loss: 24.0786, Recon VI Loss: 0.0011, Recon IR Loss: 0.0004, Mutual Loss: 0.0029, Perceptual Loss: 0.5322, Mutual I Input Loss: 0.1405
+Epoch [1914/2000], Step [57400], Total Loss: 34.8951, Recon VI Loss: 0.0006, Recon IR Loss: 0.0011, Mutual Loss: 0.0021, Perceptual Loss: 0.7869, Mutual I Input Loss: 0.1025
+Epoch [1917/2000], Step [57500], Total Loss: 28.4070, Recon VI Loss: 0.0028, Recon IR Loss: 0.0009, Mutual Loss: 0.0048, Perceptual Loss: 0.5538, Mutual I Input Loss: 0.2372
+Epoch [1920/2000], Step [57600], Total Loss: 24.2671, Recon VI Loss: 0.0004, Recon IR Loss: 0.0006, Mutual Loss: 0.0031, Perceptual Loss: 0.5369, Mutual I Input Loss: 0.1494
+Epoch [1924/2000], Step [57700], Total Loss: 40.4505, Recon VI Loss: 0.0009, Recon IR Loss: 0.0011, Mutual Loss: 0.0019, Perceptual Loss: 0.9168, Mutual I Input Loss: 0.0824
+Epoch [1927/2000], Step [57800], Total Loss: 23.5323, Recon VI Loss: 0.0005, Recon IR Loss: 0.0004, Mutual Loss: 0.0025, Perceptual Loss: 0.5365, Mutual I Input Loss: 0.1040
+Epoch [1930/2000], Step [57900], Total Loss: 27.5043, Recon VI Loss: 0.0005, Recon IR Loss: 0.0005, Mutual Loss: 0.0018, Perceptual Loss: 0.6335, Mutual I Input Loss: 0.1106
+Epoch [1934/2000], Step [58000], Total Loss: 38.4178, Recon VI Loss: 0.0009, Recon IR Loss: 0.0014, Mutual Loss: 0.0014, Perceptual Loss: 0.8584, Mutual I Input Loss: 0.0685
+Epoch [1937/2000], Step [58100], Total Loss: 25.8419, Recon VI Loss: 0.0010, Recon IR Loss: 0.0004, Mutual Loss: 0.0027, Perceptual Loss: 0.5826, Mutual I Input Loss: 0.1180
+Epoch [1940/2000], Step [58200], Total Loss: 27.8691, Recon VI Loss: 0.0004, Recon IR Loss: 0.0004, Mutual Loss: 0.0024, Perceptual Loss: 0.6462, Mutual I Input Loss: 0.1241
+Epoch [1944/2000], Step [58300], Total Loss: 35.9727, Recon VI Loss: 0.0010, Recon IR Loss: 0.0011, Mutual Loss: 0.0014, Perceptual Loss: 0.8085, Mutual I Input Loss: 0.0596
+Epoch [1947/2000], Step [58400], Total Loss: 26.8394, Recon VI Loss: 0.0008, Recon IR Loss: 0.0001, Mutual Loss: 0.0037, Perceptual Loss: 0.6145, Mutual I Input Loss: 0.1669
+Epoch [1950/2000], Step [58500], Total Loss: 24.0054, Recon VI Loss: 0.0007, Recon IR Loss: 0.0002, Mutual Loss: 0.0023, Perceptual Loss: 0.5546, Mutual I Input Loss: 0.1007
+Epoch [1954/2000], Step [58600], Total Loss: 38.4314, Recon VI Loss: 0.0012, Recon IR Loss: 0.0006, Mutual Loss: 0.0022, Perceptual Loss: 0.8780, Mutual I Input Loss: 0.1186
+Epoch [1957/2000], Step [58700], Total Loss: 24.3256, Recon VI Loss: 0.0021, Recon IR Loss: 0.0005, Mutual Loss: 0.0041, Perceptual Loss: 0.4957, Mutual I Input Loss: 0.2041
+Epoch [1960/2000], Step [58800], Total Loss: 23.8415, Recon VI Loss: 0.0014, Recon IR Loss: 0.0006, Mutual Loss: 0.0033, Perceptual Loss: 0.5061, Mutual I Input Loss: 0.1504
+Epoch [1964/2000], Step [58900], Total Loss: 44.8485, Recon VI Loss: 0.0013, Recon IR Loss: 0.0023, Mutual Loss: 0.0014, Perceptual Loss: 0.9609, Mutual I Input Loss: 0.0812
+Epoch [1967/2000], Step [59000], Total Loss: 30.3451, Recon VI Loss: 0.0003, Recon IR Loss: 0.0016, Mutual Loss: 0.0027, Perceptual Loss: 0.6500, Mutual I Input Loss: 0.1176
+Epoch [1970/2000], Step [59100], Total Loss: 31.3635, Recon VI Loss: 0.0012, Recon IR Loss: 0.0006, Mutual Loss: 0.0018, Perceptual Loss: 0.7105, Mutual I Input Loss: 0.0945
+Epoch [1974/2000], Step [59200], Total Loss: 40.1488, Recon VI Loss: 0.0009, Recon IR Loss: 0.0030, Mutual Loss: 0.0012, Perceptual Loss: 0.8202, Mutual I Input Loss: 0.0618
+Epoch [1977/2000], Step [59300], Total Loss: 32.9002, Recon VI Loss: 0.0006, Recon IR Loss: 0.0004, Mutual Loss: 0.0034, Perceptual Loss: 0.7553, Mutual I Input Loss: 0.1603
+Epoch [1980/2000], Step [59400], Total Loss: 28.9194, Recon VI Loss: 0.0004, Recon IR Loss: 0.0003, Mutual Loss: 0.0023, Perceptual Loss: 0.6766, Mutual I Input Loss: 0.1180
+Epoch [1984/2000], Step [59500], Total Loss: 28.6080, Recon VI Loss: 0.0009, Recon IR Loss: 0.0005, Mutual Loss: 0.0014, Perceptual Loss: 0.6545, Mutual I Input Loss: 0.0714
+Epoch [1987/2000], Step [59600], Total Loss: 24.8504, Recon VI Loss: 0.0006, Recon IR Loss: 0.0005, Mutual Loss: 0.0028, Perceptual Loss: 0.5610, Mutual I Input Loss: 0.1202
+Epoch [1990/2000], Step [59700], Total Loss: 24.4327, Recon VI Loss: 0.0007, Recon IR Loss: 0.0003, Mutual Loss: 0.0028, Perceptual Loss: 0.5583, Mutual I Input Loss: 0.1167
+Epoch [1994/2000], Step [59800], Total Loss: 40.6827, Recon VI Loss: 0.0007, Recon IR Loss: 0.0015, Mutual Loss: 0.0017, Perceptual Loss: 0.9113, Mutual I Input Loss: 0.0817
+Epoch [1997/2000], Step [59900], Total Loss: 27.7992, Recon VI Loss: 0.0006, Recon IR Loss: 0.0005, Mutual Loss: 0.0032, Perceptual Loss: 0.6259, Mutual I Input Loss: 0.1494
+Epoch [2000/2000], Step [60000], Total Loss: 27.9066, Recon VI Loss: 0.0003, Recon IR Loss: 0.0002, Mutual Loss: 0.0028, Perceptual Loss: 0.6572, Mutual I Input Loss: 0.1323
+Evaluating epoch 2000 results...
+Saving epoch 2000 models...
+[*] Finish training for Decom Net
